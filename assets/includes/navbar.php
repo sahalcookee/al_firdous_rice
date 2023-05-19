@@ -17,7 +17,7 @@
             <div class="d-block d-lg-none">
                 <nav class="navbar resp-nav fixed-top">
                     <div class="container-fluid">
-                        <a class="navbar-brand ms-3" href="#"><img class="w-75" src="assets/images/logo.svg" alt=""></a>
+                        <a class="navbar-brand ms-3" href="#"><img class="w-75 resp-nav-logo-1" src="assets/images/logo.svg" alt=""></a>
                         <button class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasNavbar" aria-controls="offcanvasNavbar" aria-label="Toggle navigation">
                             <img class="w-25" src="assets/images/resp-toggle.png" alt="">
                         </button>
