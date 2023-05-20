@@ -170,6 +170,184 @@
         </div>
     </section>
 
+    <!-- section-5  -->
+    <section class="py-5 mb-0 mb-lg-5">
+        <div class="conatiner">
+            <div class="text-center">
+                <h2 class="main-h2 fw-bold mx-auto max-w fs-1 m-0">RECIPES</h2>
+                <p class="body-p fw-medium">Make lip-smacking dishes with our award winning products</p>
+                <img class="mt-3 img-fluid" src="assets/images/h-decor.png" alt="">
+            </div>
+            <div class="container mt-5">
+                <div class="recipes-slide row text-center py-4">
+                    <div class="h-s4-item">
+                        <a href="#">
+                            <img class="py-4" src="assets/images/h-s5-prdt-1.jpg" alt="">
+                            <h5 class="body-p brown-bg px-5 py-2 d-inline-block text-white h-s4-item-p">ALIF LAILA</h5>
+                        </a>
+                    </div>
+                    <div class="h-s4-item">
+                        <a href="#">
+                            <img class="py-4" src="assets/images/h-s5-prdt-2.jpg" alt="">
+                            <h5 class="body-p brown-bg px-5 py-2 d-inline-block text-white h-s4-item-p">ALIF LAILA</h5>
+                        </a>
+                    </div>
+                    <div class="h-s4-item">
+                        <a href="#">
+                            <img class="py-4" src="assets/images/h-s5-prdt-3.jpg" alt="">
+                            <h5 class="body-p brown-bg px-5 py-2 d-inline-block text-white h-s4-item-p">ALIF LAILA</h5>
+                        </a>
+                    </div>
+                    <div class="h-s4-item">
+                        <a href="#">
+                            <img class="py-4" src="assets/images/h-s5-prdt-4.jpg" alt="">
+                            <h5 class="body-p brown-bg px-5 py-2 d-inline-block text-white h-s4-item-p">ALIF LAILA</h5>
+                        </a>
+                    </div>
+                    <div class="h-s4-item">
+                        <a href="#">
+                            <img class="py-4" src="assets/images/h-s5-prdt-3.jpg" alt="">
+                            <h5 class="body-p brown-bg px-5 py-2 d-inline-block text-white h-s4-item-p">ALIF LAILA</h5>
+                        </a>
+                    </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- section-6  -->
+    <section class="py-5 mb-0 mb-lg-5">
+        <div class="container-fluid p-0">
+            <div class="h-s6-ban-div">
+                <div class="container position-relative">
+                    <div class="brown-bg rounded-5 p-3 p-md-5 position-absolute text-center text-white h-s6-pos-div me-3">
+                        <h2 class="main-h2 fw-bold h-s1-h m-0">RICE TALES</h2>
+                        <img class="mt-0 img-fluid" src="assets/images/h-decor-2.png" alt="">
+                        <p class="body-p fw-normal text-white text-center fs-3 mt-2">rom its first cultivation around 10,000 years ago, rice has fed more people than any other grain. It has been closely linked with the evolution of human civilisation across continents. Let’s explore different aspects of rice and our association with the god of grain</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="container">
+            <div class="mt-5">
+                <div class="row g-3">
+                    <div class="col-md-6">
+                        <div class="position-relative h-s6-img-div">
+                            <img class="img-fluid" src="assets/images/h-s6-img-1.jpg" alt="">
+                            <div class="position-absolute h-s6-img-label">
+                                <h3 class="main-h2 fw-bold text-white mb-1">RICING SINCE CENTURY</h3>
+                                <a class="text-decoration-none text-white h-s6-img-label-a" href="#">KNOW MORE</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-6">
+                        <div class="position-relative h-s6-img-div">
+                            <img class="img-fluid" src="assets/images/h-s6-img-2.jpg" alt="">
+                            <div class="position-absolute h-s6-img-label">
+                                <h3 class="main-h2 fw-bold text-white mb-1">TRADITIONAL</h3>
+                                <a class="text-decoration-none text-white h-s6-img-label-a" href="#">KNOW MORE</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- section-7  -->
+    <section class="py-5 mb-0 mb-lg-5">
+        <div class="container text-center">
+            <h2 class="main-h2 fw-bold h-s1-h m-0 h-s7-head">BIRYANI HISTORY</h2>
+            <div class="brown-bg py-4 px-2 px-md-3 px-lg-5 rounded-5 position-relative">
+                <img class="position-absolute h-s1-decor-1 h-s7-decor-1 start-0 d-none d-lg-block" src="assets/images/h-s1-rice-1.png" alt="">
+                <img class="position-absolute h-s1-decor-2 h-s7-decor-2 end-0 d-none d-lg-block" src="assets/images/h-s1-rice-2.png" alt="">
+                <div class="px-3 px-md-4 px-lg-5">
+                    <p class="body-p fw-normal text-white fs-4 mt-5">The history of biryani can be traced back to the Mughal Empire, which ruled over the Indian subcontinent from the 16th to the 19th century. It is believed that the Mughal emperors and their royal kitchens played a significant role in the development of this dish.</p>
+                    <p class="body-p fw-normal text-white fs-4">According to some historians, the biryani was introduced to India by the Persian travelers and traders who came to the country in the medieval era. The dish was originally prepared in the Persian style with meat, rice, and a blend of spices and herbs.</p>
+                    <p class="body-p fw-normal text-white fs-4 mb-5">Over time, the biryani evolved and became popular across different regions of India, with each region adding its unique flavor and ingredients. For instance, the biryani in Hyderabad is known for its spicy and tangy taste, while the biryani in Lucknow is more delicate and fragrant.</p>
+                </div>
+                <div class="my-5">
+                    <a class="d-inline-flex bg-white rounded-pill px-4 py-3 text-decoration-none align-items-center text-black h-s1-butn" href="#">
+                        <p class="body-p fw-semibold fs-5 m-0">Read our story</p>
+                        <img class="ms-3" src="assets/images/butn-icon.svg" alt="">
+                    </a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- section-8  -->
+    <section class="pt-5 mb-0 position-relative h-s3-div">
+        <img class="position-absolute end-0 h-s8-ricepack-img" src="assets/images/h-s8-ricepack-img.png" alt="">
+        <div class="container pb-5">
+            <div class="mb-5">
+                <h2 class="sp-font fw-medium blk-prime h-s1-h m-0 h-s8-sp-font-1">AL FIRDOUS</h2>
+                <span class="body-p blk-prime fw-medium fs-5 m-0">A QUALITY FOOD</span>
+                <h2 class="sp-font fw-medium blk-prime h-s1-h m-0 h-s8-sp-font-1 h-s8-sp-font-2">FOODS</h2>
+                <p class="body-p blk-prime fw-medium fs-6 m-0">#667,<br>GROUND FLOOR,<br>SECTOR 4, KARNAL,<br>HARIYANA, PIN<br>132001</p>
+            </div>
+            <div class="row gx-3 gx-lg-5 gy-4">
+                <div class="col-md-4">
+                    <div class="p-4 rounded-5 d-inline-flex flex-column bg-white text-center">
+                        <h4 class="body-p fw-bold fs-3">CONTACT US</h4>
+                        <img class="img-fluid" src="assets/images/h-s8-card-decor.png" alt="">
+                        <p class="body-p blk-prime fw-medium fs-5 my-3 px-0 px-xl-5">biryani evolved and became popular across different regions of India,</p>
+                        <a class="text-decoration-none body-p fw-medium mt-3" href="#">KNOW MORE ></a>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="p-4 rounded-5 d-inline-flex flex-column bg-white text-center">
+                        <h4 class="body-p fw-bold fs-3">FUTURE PLAN</h4>
+                        <img class="img-fluid" src="assets/images/h-s8-card-decor.png" alt="">
+                        <p class="body-p blk-prime fw-medium fs-5 my-3 px-0 px-xl-5">biryani evolved and became popular across different regions of India,</p>
+                        <a class="text-decoration-none body-p fw-medium mt-3" href="#">KNOW MORE ></a>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="p-4 rounded-5 d-inline-flex flex-column bg-white text-center">
+                        <h4 class="body-p fw-bold fs-3">THA RANGE</h4>
+                        <img class="img-fluid" src="assets/images/h-s8-card-decor.png" alt="">
+                        <p class="body-p blk-prime fw-medium fs-5 my-3 px-0 px-xl-5">biryani evolved and became popular across different regions of India,</p>
+                        <a class="text-decoration-none body-p fw-medium mt-3" href="#">KNOW MORE ></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="brown-bg h-s8-lower-div mt-5"></div>
+    </section>
+
+    <!-- section-9  -->
+    <section class="mb-0 mb-lg-5">
+        <div class="h-s9-bg">
+            <div class="container-fluid p-0">
+                <div class="row g-0">
+                    <div class="offset-lg-5 col-lg-7">
+                        <div class="h-s9-div brown-bg p-5 rounded-start-5 position-relative">
+                            <img class="position-absolute h-s9-ricepack-img d-none d-md-block" src="assets/images/abusalam.png" alt="">
+                            <img class="position-absolute h-s9-ricegrain-img d-none d-md-block" src="assets/images/h-s9-grain-decor.png" alt="">
+                            <div class="h-s9-head-div">
+                                <div class="text-center">
+                                    <h2 class="main-h2 fw-bold fs-1 m-0 text-white">GRAINS OF HOPE</h2>
+                                    <img class="mt-3 img-fluid" src="assets/images/h-decor.png" alt="">
+                                </div>
+                            </div>
+                            <p class="body-p fw-normal text-white fs-3 mt-5 mb-5 pb-5">A drive to bring a smile to every face and food on every plate. During the time of the pandemic, ‘Grains of Hope’ an initiative India Gate Foods was initiated for Mothers by ensuring the maximum number, receiving rice supply and benefited many families across the country.</p>
+                            <img class="position-absolute end-0 bottom-0" src="assets/images/h-s9-grain-decor.png" alt="">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- section-10  -->
+    <section class="py-5 mb-5">
+        <div class="conatiner-fluid p-0">
+            <div class="h-s10-ban-img"></div>
+        </div>
+    </section>
+
+    <!-- footer  -->
+    <section class="mt-5 "></section>
     <!-- J Query  -->
     <!-- slick slider  -->
     <script type="text/javascript" src="//code.jquery.com/jquery-1.11.0.min.js"></script>
@@ -207,6 +385,44 @@
                 },
                 {
                 breakpoint: 480,
+                settings: {
+                    arrows: false,
+                    centerMode: false,
+                    centerPadding: '0px',
+                    slidesToShow: 1
+                }
+                }
+            ]
+            });
+
+            $('.recipes-slide').slick({
+            centerMode: true,
+            centerPadding: '10px',
+            autoplay: true,
+            autoplaySpeed: 2000,
+            slidesToShow: 4,
+            responsive: [
+                {
+                breakpoint: 1199,
+                settings: {
+                    arrows: true,
+                    centerMode: true,
+                    centerPadding: '0px',
+                    slidesToShow: 3
+                }
+                },
+                {
+                breakpoint: 998,
+                settings: {
+                    arrows: false,
+                    centerMode: true,
+                    centerPadding: '0px',
+                    slidesToShow: 2
+                }
+                },
+
+                {
+                breakpoint: 576,
                 settings: {
                     arrows: false,
                     centerMode: true,

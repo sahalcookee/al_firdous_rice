@@ -138,6 +138,9 @@ body{
     filter: drop-shadow(2px 10px 13px #a6a6a6);
     min-height: 347px;
 }
+.h-s5-product-img{
+    padding: 20px 0px;
+}
 .h-s4-item{
     text-align: center;
     text-align: -webkit-center;
@@ -148,4 +151,93 @@ body{
 .slick-next:before, .slick-prev:before{
     font-size: 26px !important;
     color: #45181a !important;
+}
+
+.h-s6-ban-div{
+    background-image: url(../images/h-s6-banner.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    width: 100%;
+    height: 400px;
+}
+.h-s6-pos-div{
+    top: -85px;
+}
+.h-s6-img-label{
+    bottom: 15px;
+    left: 15px;
+}
+.h-s6-img-div::before{
+    position: absolute;
+    content: '';
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(0deg, rgba(0,0,0,0.6980042016806722) 0%, rgba(255,255,255,0) 100%);
+}
+.h-s6-img-label-a{
+    transition: all 0.3s ease;
+}
+.h-s6-img-label-a:hover{
+    text-decoration: underline !important;
+    color: #e3b638 !important;
+    transition: all 0.3s ease;
+}
+
+.h-s7-head{
+    color: #815c22;
+}
+.h-s7-decor-1{
+    width: 9%;
+    top: 62%;
+}
+.h-s7-decor-2{
+    width: 9%;
+}
+.h-s8-sp-font-1{
+    font-size: 110px;
+    line-height:62px;
+}
+.h-s8-sp-font-2{
+    line-height:92px;
+}
+.h-s8-ricepack-img{
+    z-index: -1;
+    transform: rotate(-37deg);
+}
+.h-s8-lower-div{
+    height: 150px;
+}
+.h-s9-bg{
+    background-image: url(../images/h-s9.png);
+    background-size: contain;
+    background-position: top;
+    background-repeat: no-repeat;
+
+}
+.h-s9-div{
+    margin-top: 65%;
+}
+.h-s9-head-div{
+    margin-left: 40%;
+}
+.h-s9-ricepack-img{
+    transform: rotate(-30deg);
+    top: -18rem;
+    left: 12rem;
+}
+.h-s9-ricegrain-img{
+    top: -9rem;
+    left: 3rem;
+    z-index: 0;
+    transform: rotate(-30deg);
+}
+.h-s10-ban-img{
+    background-image: url(../images/h-s10-ban-img.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 300px;
 }
