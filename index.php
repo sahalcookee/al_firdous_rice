@@ -6,7 +6,15 @@
     <section>
         <?php include 'assets/includes/navbar.php';?>
     </section>
-
+    <?php
+    function active($currect_page){
+    $url_array =  explode('/', $_SERVER['REQUEST_URI']) ;
+    $url = end($url_array);  
+    if($currect_page == $url){
+        echo 'active-nav';
+    } 
+    }
+    ?>
     <!-- banner section  -->
     <section class="mt-lg-4 mt-5 pt-5 pt-lg-0 pb-0 pb-lg-5">
         <div class="container">
@@ -108,7 +116,7 @@
     <section class="py-5 mb-0 mb-lg-5">
         <div class="conatiner">
             <div class="text-center">
-                <h2 class="main-h2 fw-bold mx-auto max-w fs-1 m-0">OUR PRODUCTS</h2>
+                <h2 class="main-h2 fw-bold mx-auto max-w fs-1 m-0 text-uppercase">Our Products</h2>
                 <p class="body-p fw-medium">Our range of finest basmati rice comes from thousands of rice growers across India</p>
                 <img class="mt-3 img-fluid" src="assets/images/h-decor.png" alt="">
             </div>
@@ -117,49 +125,115 @@
                     <div class="h-s4-item">
                         <a href="#">
                             <img class="h-s4-product-img" src="assets/images/aliflaila.png" alt="">
-                            <h5 class="body-p brown-bg px-5 py-2 d-inline-block text-white h-s4-item-p">ALIF LAILA</h5>
+                            <h5 class="body-p brown-bg px-5 py-2 d-inline-block text-white h-s4-item-p text-uppercase">Alif Laila</h5>
                         </a>
                     </div>
                     <div class="h-s4-item">
                         <a href="#">
                             <img class="h-s4-product-img" src="assets/images/alhind.png" alt="">
-                            <h5 class="body-p brown-bg px-5 py-2 d-inline-block text-white h-s4-item-p">AL HIND</h5>
+                            <h5 class="body-p brown-bg px-5 py-2 d-inline-block text-white h-s4-item-p text-uppercase">Al Hind</h5>
                         </a>
                     </div>
                     <div class="h-s4-item">
                         <a href="#">
                             <img class="h-s4-product-img" src="assets/images/abusalam.png" alt="">
-                            <h5 class="body-p brown-bg px-5 py-2 d-inline-block text-white h-s4-item-p">ABU SALAM</h5>
+                            <h5 class="body-p brown-bg px-5 py-2 d-inline-block text-white h-s4-item-p text-uppercase">Abu Salam</h5>
                         </a>
                     </div>
                     <div class="h-s4-item">
                         <a href="#">
-                            <img class="h-s4-product-img" src="assets/images/alfirdous.png" alt="">
-                            <h5 class="body-p brown-bg px-5 py-2 d-inline-block text-white h-s4-item-p">AL FIRDOUS</h5>
+                            <img class="h-s4-product-img" src="assets/images/akbarcity-jeera.png" alt="">
+                            <h5 class="body-p brown-bg px-5 py-2 d-inline-block text-white h-s4-item-p text-uppercase">Akbar city</h5>
                         </a>
                     </div>
                     <div class="h-s4-item">
                         <a href="#">
-                            <img class="h-s4-product-img" src="assets/images/aliflaila.png" alt="">
-                            <h5 class="body-p brown-bg px-5 py-2 d-inline-block text-white h-s4-item-p">ALIF LAILA</h5>
+                            <img class="h-s4-product-img" src="assets/images/akbarcity-rozana.png" alt="">
+                            <h5 class="body-p brown-bg px-5 py-2 d-inline-block text-white h-s4-item-p text-uppercase">Akbar city</h5>
                         </a>
                     </div>
                     <div class="h-s4-item">
                         <a href="#">
-                            <img class="h-s4-product-img" src="assets/images/aliflaila.png" alt="">
-                            <h5 class="body-p brown-bg px-5 py-2 d-inline-block text-white h-s4-item-p">ALIF LAILA</h5>
+                            <img class="h-s4-product-img" src="assets/images/akbarcity-rozana-green.png" alt="">
+                            <h5 class="body-p brown-bg px-5 py-2 d-inline-block text-white h-s4-item-p text-uppercase">Akbar city</h5>
                         </a>
                     </div>
                     <div class="h-s4-item">
                         <a href="#">
-                            <img class="h-s4-product-img" src="assets/images/aliflaila.png" alt="">
-                            <h5 class="body-p brown-bg px-5 py-2 d-inline-block text-white h-s4-item-p">ALIF LAILA</h5>
+                            <img class="h-s4-product-img" src="assets/images/akbarcityxxl.png" alt="">
+                            <h5 class="body-p brown-bg px-5 py-2 d-inline-block text-white h-s4-item-p text-uppercase">Akbar city</h5>
                         </a>
                     </div>
                     <div class="h-s4-item">
                         <a href="#">
-                            <img class="h-s4-product-img" src="assets/images/aliflaila.png" alt="">
-                            <h5 class="body-p brown-bg px-5 py-2 d-inline-block text-white h-s4-item-p">ALIF LAILA</h5>
+                            <img class="h-s4-product-img" src="assets/images/akbarcity-xxl-green.png" alt="">
+                            <h5 class="body-p brown-bg px-5 py-2 d-inline-block text-white h-s4-item-p text-uppercase">Akbar city</h5>
+                        </a>
+                    </div>
+                    <div class="h-s4-item">
+                        <a href="#">
+                            <img class="h-s4-product-img" src="assets/images/alhind-biriyani-blue.png" alt="">
+                            <h5 class="body-p brown-bg px-5 py-2 d-inline-block text-white h-s4-item-p text-uppercase">Al hind</h5>
+                        </a>
+                    </div>
+                    <div class="h-s4-item">
+                        <a href="#">
+                            <img class="h-s4-product-img" src="assets/images/alhind-bukhari.png" alt="">
+                            <h5 class="body-p brown-bg px-5 py-2 d-inline-block text-white h-s4-item-p text-uppercase">Al hind</h5>
+                        </a>
+                    </div>
+                    <div class="h-s4-item">
+                        <a href="#">
+                            <img class="h-s4-product-img" src="assets/images/alhind-super.png" alt="">
+                            <h5 class="body-p brown-bg px-5 py-2 d-inline-block text-white h-s4-item-p text-uppercase">Al hind</h5>
+                        </a>
+                    </div>
+                    <div class="h-s4-item">
+                        <a href="#">
+                            <img class="h-s4-product-img" src="assets/images/alhind-whitesella.png" alt="">
+                            <h5 class="body-p brown-bg px-5 py-2 d-inline-block text-white h-s4-item-p text-uppercase">Al hind</h5>
+                        </a>
+                    </div>
+                    <div class="h-s4-item">
+                        <a href="#">
+                            <img class="h-s4-product-img" src="assets/images/alkilal-orange.png" alt="">
+                            <h5 class="body-p brown-bg px-5 py-2 d-inline-block text-white h-s4-item-p text-uppercase">Al qilal</h5>
+                        </a>
+                    </div>
+                    <div class="h-s4-item">
+                        <a href="#">
+                            <img class="h-s4-product-img" src="assets/images/alqilal-basmathi.png" alt="">
+                            <h5 class="body-p brown-bg px-5 py-2 d-inline-block text-white h-s4-item-p text-uppercase">Al qilal</h5>
+                        </a>
+                    </div>
+                    <div class="h-s4-item">
+                        <a href="#">
+                            <img class="h-s4-product-img" src="assets/images/alqilal-blck.png" alt="">
+                            <h5 class="body-p brown-bg px-5 py-2 d-inline-block text-white h-s4-item-p text-uppercase">Al qilal</h5>
+                        </a>
+                    </div>
+                    <div class="h-s4-item">
+                        <a href="#">
+                            <img class="h-s4-product-img" src="assets/images/alqilal-green.png" alt="">
+                            <h5 class="body-p brown-bg px-5 py-2 d-inline-block text-white h-s4-item-p text-uppercase">Al qilal</h5>
+                        </a>
+                    </div>
+                    <div class="h-s4-item">
+                        <a href="#">
+                            <img class="h-s4-product-img" src="assets/images/alqilal-jeerakam.png" alt="">
+                            <h5 class="body-p brown-bg px-5 py-2 d-inline-block text-white h-s4-item-p text-uppercase">Al qilal</h5>
+                        </a>
+                    </div>
+                    <div class="h-s4-item">
+                        <a href="#">
+                            <img class="h-s4-product-img" src="assets/images/alqilal-kolam.png" alt="">
+                            <h5 class="body-p brown-bg px-5 py-2 d-inline-block text-white h-s4-item-p text-uppercase">Al qilal</h5>
+                        </a>
+                    </div>
+                    <div class="h-s4-item">
+                        <a href="#">
+                            <img class="h-s4-product-img" src="assets/images/akbarcity-xxl-green.png" alt="">
+                            <h5 class="body-p brown-bg px-5 py-2 d-inline-block text-white h-s4-item-p text-uppercase">Akbar city</h5>
                         </a>
                     </div>
                 </div>
@@ -174,7 +248,7 @@
     <section class="py-5 mb-0 mb-lg-5">
         <div class="conatiner">
             <div class="text-center">
-                <h2 class="main-h2 fw-bold mx-auto max-w fs-1 m-0">RECIPES</h2>
+                <h2 class="main-h2 fw-bold mx-auto max-w fs-1 m-0 text-uppercase">Recipes</h2>
                 <p class="body-p fw-medium">Make lip-smacking dishes with our award winning products</p>
                 <img class="mt-3 img-fluid" src="assets/images/h-decor.png" alt="">
             </div>
@@ -183,31 +257,31 @@
                     <div class="h-s4-item">
                         <a href="#">
                             <img class="py-4" src="assets/images/h-s5-prdt-1.jpg" alt="">
-                            <h5 class="body-p brown-bg px-5 py-2 d-inline-block text-white h-s4-item-p">ALIF LAILA</h5>
+                            <h5 class="body-p brown-bg px-5 py-2 d-inline-block text-white h-s4-item-p text-uppercase">Alif Laila</h5>
                         </a>
                     </div>
                     <div class="h-s4-item">
                         <a href="#">
                             <img class="py-4" src="assets/images/h-s5-prdt-2.jpg" alt="">
-                            <h5 class="body-p brown-bg px-5 py-2 d-inline-block text-white h-s4-item-p">ALIF LAILA</h5>
+                            <h5 class="body-p brown-bg px-5 py-2 d-inline-block text-white h-s4-item-p text-uppercase">Alif Laila</h5>
                         </a>
                     </div>
                     <div class="h-s4-item">
                         <a href="#">
                             <img class="py-4" src="assets/images/h-s5-prdt-3.jpg" alt="">
-                            <h5 class="body-p brown-bg px-5 py-2 d-inline-block text-white h-s4-item-p">ALIF LAILA</h5>
+                            <h5 class="body-p brown-bg px-5 py-2 d-inline-block text-white h-s4-item-p text-uppercase">Alif Laila</h5>
                         </a>
                     </div>
                     <div class="h-s4-item">
                         <a href="#">
                             <img class="py-4" src="assets/images/h-s5-prdt-4.jpg" alt="">
-                            <h5 class="body-p brown-bg px-5 py-2 d-inline-block text-white h-s4-item-p">ALIF LAILA</h5>
+                            <h5 class="body-p brown-bg px-5 py-2 d-inline-block text-white h-s4-item-p text-uppercase">Alif Laila</h5>
                         </a>
                     </div>
                     <div class="h-s4-item">
                         <a href="#">
                             <img class="py-4" src="assets/images/h-s5-prdt-3.jpg" alt="">
-                            <h5 class="body-p brown-bg px-5 py-2 d-inline-block text-white h-s4-item-p">ALIF LAILA</h5>
+                            <h5 class="body-p brown-bg px-5 py-2 d-inline-block text-white h-s4-item-p text-uppercase">Alif Laila</h5>
                         </a>
                     </div>
             </div>
@@ -220,7 +294,7 @@
             <div class="h-s6-ban-div">
                 <div class="container position-relative">
                     <div class="brown-bg rounded-5 p-3 p-md-5 position-absolute text-center text-white h-s6-pos-div me-3">
-                        <h2 class="main-h2 fw-bold h-s1-h m-0">RICE TALES</h2>
+                        <h2 class="main-h2 fw-bold h-s1-h m-0 text-uppercase">Rice Tales</h2>
                         <img class="mt-0 img-fluid" src="assets/images/h-decor-2.png" alt="">
                         <p class="body-p fw-normal text-white text-center fs-3 mt-2">rom its first cultivation around 10,000 years ago, rice has fed more people than any other grain. It has been closely linked with the evolution of human civilisation across continents. Let’s explore different aspects of rice and our association with the god of grain</p>
                     </div>
@@ -234,8 +308,8 @@
                         <div class="position-relative h-s6-img-div">
                             <img class="img-fluid" src="assets/images/h-s6-img-1.jpg" alt="">
                             <div class="position-absolute h-s6-img-label">
-                                <h3 class="main-h2 fw-bold text-white mb-1">RICING SINCE CENTURY</h3>
-                                <a class="text-decoration-none text-white h-s6-img-label-a" href="#">KNOW MORE</a>
+                                <h3 class="main-h2 fw-bold text-white mb-1 text-uppercase">Ricing Since Century</h3>
+                                <a class="text-decoration-none text-white h-s6-img-label-a text-uppercase" href="#">Know More</a>
                             </div>
                         </div>
                     </div>
@@ -243,8 +317,8 @@
                         <div class="position-relative h-s6-img-div">
                             <img class="img-fluid" src="assets/images/h-s6-img-2.jpg" alt="">
                             <div class="position-absolute h-s6-img-label">
-                                <h3 class="main-h2 fw-bold text-white mb-1">TRADITIONAL</h3>
-                                <a class="text-decoration-none text-white h-s6-img-label-a" href="#">KNOW MORE</a>
+                                <h3 class="main-h2 fw-bold text-white mb-1 text-uppercase">Traditional</h3>
+                                <a class="text-decoration-none text-white h-s6-img-label-a text-uppercase" href="#">Know More</a>
                             </div>
                         </div>
                     </div>
@@ -256,7 +330,7 @@
     <!-- section-7  -->
     <section class="py-5 mb-0 mb-lg-5">
         <div class="container text-center">
-            <h2 class="main-h2 fw-bold h-s1-h m-0 h-s7-head">BIRYANI HISTORY</h2>
+            <h2 class="main-h2 fw-bold h-s1-h m-0 h-s7-head text-uppercase">Biriyani History</h2>
             <div class="brown-bg py-4 px-2 px-md-3 px-lg-5 rounded-5 position-relative">
                 <img class="position-absolute h-s1-decor-1 h-s7-decor-1 start-0 d-none d-lg-block" src="assets/images/h-s1-rice-1.png" alt="">
                 <img class="position-absolute h-s1-decor-2 h-s7-decor-2 end-0 d-none d-lg-block" src="assets/images/h-s1-rice-2.png" alt="">
@@ -280,34 +354,34 @@
         <img class="position-absolute end-0 h-s8-ricepack-img" src="assets/images/h-s8-ricepack-img.png" alt="">
         <div class="container pb-5">
             <div class="mb-5">
-                <h2 class="sp-font fw-medium blk-prime h-s1-h m-0 h-s8-sp-font-1">AL FIRDOUS</h2>
-                <span class="body-p blk-prime fw-medium fs-5 m-0">A QUALITY FOOD</span>
-                <h2 class="sp-font fw-medium blk-prime h-s1-h m-0 h-s8-sp-font-1 h-s8-sp-font-2">FOODS</h2>
+                <h2 class="sp-font fw-medium blk-prime h-s1-h m-0 h-s8-sp-font-1 text-uppercase">Al Firdous</h2>
+                <span class="body-p blk-prime fw-medium fs-5 m-0 text-uppercase">A Quality Food</span>
+                <h2 class="sp-font fw-medium blk-prime h-s1-h m-0 h-s8-sp-font-1 h-s8-sp-font-2 text-uppercase">Foods</h2>
                 <p class="body-p blk-prime fw-medium fs-6 m-0">#667,<br>GROUND FLOOR,<br>SECTOR 4, KARNAL,<br>HARIYANA, PIN<br>132001</p>
             </div>
             <div class="row gx-3 gx-lg-5 gy-4">
                 <div class="col-md-4">
                     <div class="p-4 rounded-5 d-inline-flex flex-column bg-white text-center">
-                        <h4 class="body-p fw-bold fs-3">CONTACT US</h4>
+                        <h4 class="body-p fw-bold fs-3 text-uppercase">Contact Us</h4>
                         <img class="img-fluid" src="assets/images/h-s8-card-decor.png" alt="">
                         <p class="body-p blk-prime fw-medium fs-5 my-3 px-0 px-xl-5">biryani evolved and became popular across different regions of India,</p>
-                        <a class="text-decoration-none body-p fw-medium mt-3" href="#">KNOW MORE ></a>
+                        <a class="text-decoration-none body-p fw-medium mt-3 h-s8-card-a text-uppercase" href="#">Know More ></a>
                     </div>
                 </div>
                 <div class="col-md-4">
                     <div class="p-4 rounded-5 d-inline-flex flex-column bg-white text-center">
-                        <h4 class="body-p fw-bold fs-3">FUTURE PLAN</h4>
+                        <h4 class="body-p fw-bold fs-3 text-uppercase">Future Plan</h4>
                         <img class="img-fluid" src="assets/images/h-s8-card-decor.png" alt="">
                         <p class="body-p blk-prime fw-medium fs-5 my-3 px-0 px-xl-5">biryani evolved and became popular across different regions of India,</p>
-                        <a class="text-decoration-none body-p fw-medium mt-3" href="#">KNOW MORE ></a>
+                        <a class="text-decoration-none body-p fw-medium mt-3 h-s8-card-a text-uppercase" href="#">Know More ></a>
                     </div>
                 </div>
                 <div class="col-md-4">
                     <div class="p-4 rounded-5 d-inline-flex flex-column bg-white text-center">
-                        <h4 class="body-p fw-bold fs-3">THA RANGE</h4>
+                        <h4 class="body-p fw-bold fs-3 text-uppercase">The Range</h4>
                         <img class="img-fluid" src="assets/images/h-s8-card-decor.png" alt="">
                         <p class="body-p blk-prime fw-medium fs-5 my-3 px-0 px-xl-5">biryani evolved and became popular across different regions of India,</p>
-                        <a class="text-decoration-none body-p fw-medium mt-3" href="#">KNOW MORE ></a>
+                        <a class="text-decoration-none body-p fw-medium mt-3 h-s8-card-a text-uppercase" href="#">Know More ></a>
                     </div>
                 </div>
             </div>
@@ -326,7 +400,7 @@
                             <img class="position-absolute h-s9-ricegrain-img d-none d-md-block" src="assets/images/h-s9-grain-decor.png" alt="">
                             <div class="h-s9-head-div">
                                 <div class="text-center">
-                                    <h2 class="main-h2 fw-bold fs-1 m-0 text-white">GRAINS OF HOPE</h2>
+                                    <h2 class="main-h2 fw-bold fs-1 m-0 text-white text-uppercase">Grains of hope</h2>
                                     <img class="mt-3 img-fluid" src="assets/images/h-decor.png" alt="">
                                 </div>
                             </div>
@@ -347,7 +421,25 @@
     </section>
 
     <!-- footer  -->
-    <section class="mt-5 "></section>
+    <section class="mt-5 pt-5 position-relative">
+        <img class="position-absolute z-1 fotr-decor-grain-1" src="assets/images/h-s1-rice-1.png" alt="">
+        <img class="position-absolute z-1 end-0 fotr-decor-grain-2" src="assets/images/h-s1-rice-2.png" alt="">
+        <div class="d-flex justify-content-evenly align-items-center align-items-md-start flex-column flex-md-row position-relative z-2">
+            <a class="order-1 mb-3 text-decoration-none main-h fw-bold text-black px-4 py-2 rounded-pill fs-3 text-uppercase fotr-link-a" href="#">home</a>
+            <a class="order-1 mb-3 text-decoration-none main-h fw-bold text-black px-4 py-2 rounded-pill fs-3 text-uppercase fotr-link-a" href="#">About</a>
+            <a class="order-0 mb-3 order-md-1" href="#"><img src="assets/images/logo.svg" alt=""></a>
+            <a class="order-1 mb-3 text-decoration-none main-h fw-bold text-black px-4 py-2 rounded-pill fs-3 text-uppercase fotr-link-a" href="#">Brand</a>
+            <a class="order-1 mb-3 text-decoration-none main-h fw-bold text-black px-4 py-2 rounded-pill fs-3 text-uppercase fotr-link-a" href="#">Contact</a>
+        </div>
+        <div class="fotr-div-2 text-center py-5 pt-4">
+            <p class="text-uppercase body-p fs-4 my-5">#667, GROUNDFLOOR, SECTOR4, KARNAL, HARIYANA, PIN 132001</p>
+            <div class="d-flex justify-content-center">
+                <a class="fotr-social" href="#"><img class="px-3" src="assets/images/footer-facebook.png" alt=""></a>
+                <a class="fotr-social" href="#"><img class="px-3" src="assets/images/footer-insta.png" alt=""></a>
+                <a class="fotr-social" href="#"><img class="px-3" src="assets/images/footer-youtube.png" alt=""></a>
+            </div>
+        </div>
+    </section>
     <!-- J Query  -->
     <!-- slick slider  -->
     <script type="text/javascript" src="//code.jquery.com/jquery-1.11.0.min.js"></script>
@@ -364,6 +456,7 @@
             autoplay: true,
             autoplaySpeed: 2000,
             slidesToShow: 4,
+            slidesToScroll: 3,
             responsive: [
                 {
                 breakpoint: 998,
@@ -401,6 +494,7 @@
             autoplay: true,
             autoplaySpeed: 2000,
             slidesToShow: 4,
+            slidesToScroll: 3,
             responsive: [
                 {
                 breakpoint: 1199,
