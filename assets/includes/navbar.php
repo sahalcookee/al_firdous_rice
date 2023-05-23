@@ -1,3 +1,4 @@
+    <section>
         <div class="container">
             <!-- desktop-nav  -->
             <div class="d-none d-lg-block">
@@ -8,7 +9,7 @@
                     <div class="d-flex body-p mt-4 justify-content-evenly">
                         <a class="blk-prime text-decoration-none px-4 py-2 rounded-pill bg-white border border-2 fs-5 nav-a <?php active('index');?>" href="index">Home</a>
                         <a class="blk-prime text-decoration-none px-4 py-2 rounded-pill bg-white border border-2 fs-5 nav-a <?php active('about');?>" href="#">About</a>
-                        <a class="blk-prime text-decoration-none px-4 py-2 rounded-pill bg-white border border-2 fs-5 nav-a <?php active('brand');?>" href="#">Brand</a>
+                        <a class="blk-prime text-decoration-none px-4 py-2 rounded-pill bg-white border border-2 fs-5 nav-a <?php active('products');?> <?php active('products_inner');?>" href="products">Products</a>
                         <a class="blk-prime text-decoration-none px-4 py-2 rounded-pill bg-white border border-2 fs-5 nav-a <?php active('contact');?>" href="#">Contact</a>
                     </div>
                 </div>
@@ -29,13 +30,13 @@
                             <div class="offcanvas-body">
                                 <ul class="navbar-nav justify-content-end flex-grow-1 pe-3 text-center fs-5 body-p fw-medium">
                                     <li class="nav-item">
-                                        <a class="nav-link rounded-5 <?php active('index');?>" href="#">Home</a>
+                                        <a class="nav-link rounded-5 <?php active('index');?>" href="index">Home</a>
                                     </li>
                                     <li class="nav-item">
                                         <a class="nav-link rounded-5 <?php active('about');?>" href="#">About</a>
                                     </li>
                                     <li class="nav-item">
-                                        <a class="nav-link rounded-5 <?php active('brand');?>" href="#">Brand</a>
+                                        <a class="nav-link rounded-5 <?php active('products');?> <?php active('products_inner');?>" href="products">products</a>
                                     </li>
                                     <li class="nav-item">
                                         <a class="nav-link rounded-5 <?php active('contact');?>" href="#">Contact</a>
@@ -47,3 +48,4 @@
                 </nav>
             </div>
         </div>
+    </section>    

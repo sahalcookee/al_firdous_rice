@@ -3,9 +3,7 @@
 <?php include 'assets/includes/head.php';?>
 <body>
     <!-- nav-section -->
-    <section>
         <?php include 'assets/includes/navbar.php';?>
-    </section>
     <?php
     function active($currect_page){
     $url_array =  explode('/', $_SERVER['REQUEST_URI']) ;
@@ -18,7 +16,7 @@
     <!-- banner section  -->
     <section class="mt-lg-4 mt-5 pt-5 pt-lg-0 pb-0 pb-lg-5">
         <div class="container">
-            <div id="carouselExampleDark" class="carousel carousel-dark slide" data-bs-ride="carousel">
+            <div id="carouselExampleDark" class="carousel carousel-dark slide" data-bs-touch="true" data-bs-ride="carousel">
                 <div class="carousel-indicators">
                     <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
                     <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="1" aria-label="Slide 2"></button>
@@ -33,11 +31,15 @@
                     </div>
                 </div>
                 <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleDark" data-bs-slide="prev">
-                    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                    <span class="carousel-control-prev-icon" aria-hidden="true">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" fill="currentColor" class="bi bi-chevron-right" viewBox="0 0 16 16" id="IconChangeColor" transform="scale(-1, 1)"> <path fill-rule="evenodd" d="M4.646 1.646a.5.5 0 0 1 .708 0l6 6a.5.5 0 0 1 0 .708l-6 6a.5.5 0 0 1-.708-.708L10.293 8 4.646 2.354a.5.5 0 0 1 0-.708z" id="mainIconPathAttribute" stroke="#ffffff" stroke-width="0.5"></path> </svg>
+                    </span>
                     <span class="visually-hidden">Previous</span>
                 </button>
                 <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleDark" data-bs-slide="next">
-                    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                    <span class="carousel-control-next-icon" aria-hidden="true">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" fill="currentColor" class="bi bi-chevron-right" viewBox="0 0 16 16" id="IconChangeColor"> <path fill-rule="evenodd" d="M4.646 1.646a.5.5 0 0 1 .708 0l6 6a.5.5 0 0 1 0 .708l-6 6a.5.5 0 0 1-.708-.708L10.293 8 4.646 2.354a.5.5 0 0 1 0-.708z" id="mainIconPathAttribute" stroke="#ffffff" stroke-width="0.5"></path> </svg>
+                    </span>
                     <span class="visually-hidden">Next</span>
                 </button>
             </div>
@@ -58,7 +60,7 @@
                         <img class="img-fluid" src="assets/images/h-s1-banner-img.png" alt="">
                     </div>
                     <div class="col-12">
-                        <div class="rounded rounded-5 h-s1-yellow-div position-relative">
+                        <div class="rounded rounded-5 h-s1-yellow-div yellow-bg position-relative">
                             <div class="text-center">
                                 <p class="body-p fw-bold fs-4 max-w mx-auto">We are a company that specializes in bringing you the finest products under five distinct brands - Akbar, Alhind, Alif Laila, Firdous, and Abusalam. Each brand has its unique focus, but all are united by a passion for quality and excellence.</p>
                                 <p class="body-p fw-semibold mt-4">With our years of experience in the industry, we have become experts in bringing you the very best in [mention the types of products you offer]. Our commitment to exceptional quality, attention to detail, and customer satisfaction has made us a trusted name in the industry. Thank you for choosing our products, and we look forward to bringing you the very best that our brands have to offer.</p>
@@ -123,117 +125,123 @@
             <div class="container mt-5">
                 <div class="product-slide row text-center py-4">
                     <div class="h-s4-item">
-                        <a href="#">
+                        <a class="h-pro-card-a" href="#">
                             <img class="h-s4-product-img" src="assets/images/aliflaila.png" alt="">
                             <h5 class="body-p brown-bg px-5 py-2 d-inline-block text-white h-s4-item-p text-uppercase">Alif Laila</h5>
                         </a>
                     </div>
                     <div class="h-s4-item">
-                        <a href="#">
+                        <a class="h-pro-card-a" href="#">
                             <img class="h-s4-product-img" src="assets/images/alhind.png" alt="">
                             <h5 class="body-p brown-bg px-5 py-2 d-inline-block text-white h-s4-item-p text-uppercase">Al Hind</h5>
                         </a>
                     </div>
                     <div class="h-s4-item">
-                        <a href="#">
+                        <a class="h-pro-card-a" href="#">
                             <img class="h-s4-product-img" src="assets/images/abusalam.png" alt="">
                             <h5 class="body-p brown-bg px-5 py-2 d-inline-block text-white h-s4-item-p text-uppercase">Abu Salam</h5>
                         </a>
                     </div>
                     <div class="h-s4-item">
-                        <a href="#">
+                        <a class="h-pro-card-a" href="#">
                             <img class="h-s4-product-img" src="assets/images/akbarcity-jeera.png" alt="">
                             <h5 class="body-p brown-bg px-5 py-2 d-inline-block text-white h-s4-item-p text-uppercase">Akbar city</h5>
                         </a>
                     </div>
                     <div class="h-s4-item">
-                        <a href="#">
+                        <a class="h-pro-card-a" href="#">
                             <img class="h-s4-product-img" src="assets/images/akbarcity-rozana.png" alt="">
                             <h5 class="body-p brown-bg px-5 py-2 d-inline-block text-white h-s4-item-p text-uppercase">Akbar city</h5>
                         </a>
                     </div>
                     <div class="h-s4-item">
-                        <a href="#">
+                        <a class="h-pro-card-a" href="#">
                             <img class="h-s4-product-img" src="assets/images/akbarcity-rozana-green.png" alt="">
                             <h5 class="body-p brown-bg px-5 py-2 d-inline-block text-white h-s4-item-p text-uppercase">Akbar city</h5>
                         </a>
                     </div>
                     <div class="h-s4-item">
-                        <a href="#">
+                        <a class="h-pro-card-a" href="#">
                             <img class="h-s4-product-img" src="assets/images/akbarcityxxl.png" alt="">
                             <h5 class="body-p brown-bg px-5 py-2 d-inline-block text-white h-s4-item-p text-uppercase">Akbar city</h5>
                         </a>
                     </div>
                     <div class="h-s4-item">
-                        <a href="#">
+                        <a class="h-pro-card-a" href="#">
                             <img class="h-s4-product-img" src="assets/images/akbarcity-xxl-green.png" alt="">
                             <h5 class="body-p brown-bg px-5 py-2 d-inline-block text-white h-s4-item-p text-uppercase">Akbar city</h5>
                         </a>
                     </div>
                     <div class="h-s4-item">
-                        <a href="#">
+                        <a class="h-pro-card-a" href="#">
                             <img class="h-s4-product-img" src="assets/images/alhind-biriyani-blue.png" alt="">
                             <h5 class="body-p brown-bg px-5 py-2 d-inline-block text-white h-s4-item-p text-uppercase">Al hind</h5>
                         </a>
                     </div>
                     <div class="h-s4-item">
-                        <a href="#">
+                        <a class="h-pro-card-a" href="#">
                             <img class="h-s4-product-img" src="assets/images/alhind-bukhari.png" alt="">
                             <h5 class="body-p brown-bg px-5 py-2 d-inline-block text-white h-s4-item-p text-uppercase">Al hind</h5>
                         </a>
                     </div>
                     <div class="h-s4-item">
-                        <a href="#">
+                        <a class="h-pro-card-a" href="#">
                             <img class="h-s4-product-img" src="assets/images/alhind-super.png" alt="">
                             <h5 class="body-p brown-bg px-5 py-2 d-inline-block text-white h-s4-item-p text-uppercase">Al hind</h5>
                         </a>
                     </div>
                     <div class="h-s4-item">
-                        <a href="#">
+                        <a class="h-pro-card-a" href="#">
                             <img class="h-s4-product-img" src="assets/images/alhind-whitesella.png" alt="">
                             <h5 class="body-p brown-bg px-5 py-2 d-inline-block text-white h-s4-item-p text-uppercase">Al hind</h5>
                         </a>
                     </div>
                     <div class="h-s4-item">
-                        <a href="#">
+                        <a class="h-pro-card-a" href="#">
                             <img class="h-s4-product-img" src="assets/images/alkilal-orange.png" alt="">
                             <h5 class="body-p brown-bg px-5 py-2 d-inline-block text-white h-s4-item-p text-uppercase">Al qilal</h5>
                         </a>
                     </div>
                     <div class="h-s4-item">
-                        <a href="#">
+                        <a class="h-pro-card-a" href="#">
                             <img class="h-s4-product-img" src="assets/images/alqilal-basmathi.png" alt="">
                             <h5 class="body-p brown-bg px-5 py-2 d-inline-block text-white h-s4-item-p text-uppercase">Al qilal</h5>
                         </a>
                     </div>
                     <div class="h-s4-item">
-                        <a href="#">
+                        <a class="h-pro-card-a" href="#">
                             <img class="h-s4-product-img" src="assets/images/alqilal-blck.png" alt="">
                             <h5 class="body-p brown-bg px-5 py-2 d-inline-block text-white h-s4-item-p text-uppercase">Al qilal</h5>
                         </a>
                     </div>
                     <div class="h-s4-item">
-                        <a href="#">
+                        <a class="h-pro-card-a" href="#">
                             <img class="h-s4-product-img" src="assets/images/alqilal-green.png" alt="">
                             <h5 class="body-p brown-bg px-5 py-2 d-inline-block text-white h-s4-item-p text-uppercase">Al qilal</h5>
                         </a>
                     </div>
                     <div class="h-s4-item">
-                        <a href="#">
+                        <a class="h-pro-card-a" href="#">
                             <img class="h-s4-product-img" src="assets/images/alqilal-jeerakam.png" alt="">
                             <h5 class="body-p brown-bg px-5 py-2 d-inline-block text-white h-s4-item-p text-uppercase">Al qilal</h5>
                         </a>
                     </div>
                     <div class="h-s4-item">
-                        <a href="#">
+                        <a class="h-pro-card-a" href="#">
                             <img class="h-s4-product-img" src="assets/images/alqilal-kolam.png" alt="">
                             <h5 class="body-p brown-bg px-5 py-2 d-inline-block text-white h-s4-item-p text-uppercase">Al qilal</h5>
                         </a>
                     </div>
                     <div class="h-s4-item">
-                        <a href="#">
+                        <a class="h-pro-card-a" href="#">
                             <img class="h-s4-product-img" src="assets/images/akbarcity-xxl-green.png" alt="">
                             <h5 class="body-p brown-bg px-5 py-2 d-inline-block text-white h-s4-item-p text-uppercase">Akbar city</h5>
+                        </a>
+                    </div>
+                    <div class="h-s4-item">
+                        <a class="h-pro-card-a" href="#">
+                            <img class="h-s4-product-img" src="assets/images/qilaf-jeerakam-brown.png" alt="">
+                            <h5 class="body-p brown-bg px-5 py-2 d-inline-block text-white h-s4-item-p text-uppercase">Qilaf</h5>
                         </a>
                     </div>
                 </div>
@@ -255,31 +263,31 @@
             <div class="container mt-5">
                 <div class="recipes-slide row text-center py-4">
                     <div class="h-s4-item">
-                        <a href="#">
+                        <a class="h-pro-card-a" href="#">
                             <img class="py-4" src="assets/images/h-s5-prdt-1.jpg" alt="">
                             <h5 class="body-p brown-bg px-5 py-2 d-inline-block text-white h-s4-item-p text-uppercase">Alif Laila</h5>
                         </a>
                     </div>
                     <div class="h-s4-item">
-                        <a href="#">
+                        <a class="h-pro-card-a" href="#">
                             <img class="py-4" src="assets/images/h-s5-prdt-2.jpg" alt="">
                             <h5 class="body-p brown-bg px-5 py-2 d-inline-block text-white h-s4-item-p text-uppercase">Alif Laila</h5>
                         </a>
                     </div>
                     <div class="h-s4-item">
-                        <a href="#">
+                        <a class="h-pro-card-a" href="#">
                             <img class="py-4" src="assets/images/h-s5-prdt-3.jpg" alt="">
                             <h5 class="body-p brown-bg px-5 py-2 d-inline-block text-white h-s4-item-p text-uppercase">Alif Laila</h5>
                         </a>
                     </div>
                     <div class="h-s4-item">
-                        <a href="#">
+                        <a class="h-pro-card-a" href="#">
                             <img class="py-4" src="assets/images/h-s5-prdt-4.jpg" alt="">
                             <h5 class="body-p brown-bg px-5 py-2 d-inline-block text-white h-s4-item-p text-uppercase">Alif Laila</h5>
                         </a>
                     </div>
                     <div class="h-s4-item">
-                        <a href="#">
+                        <a class="h-pro-card-a" href="#">
                             <img class="py-4" src="assets/images/h-s5-prdt-3.jpg" alt="">
                             <h5 class="body-p brown-bg px-5 py-2 d-inline-block text-white h-s4-item-p text-uppercase">Alif Laila</h5>
                         </a>
@@ -309,7 +317,7 @@
                             <img class="img-fluid" src="assets/images/h-s6-img-1.jpg" alt="">
                             <div class="position-absolute h-s6-img-label">
                                 <h3 class="main-h2 fw-bold text-white mb-1 text-uppercase">Ricing Since Century</h3>
-                                <a class="text-decoration-none text-white h-s6-img-label-a text-uppercase" href="#">Know More</a>
+                                <a class="text-decoration-none text-white h-s6-img-label-a text-uppercase" href="#">Know More></a>
                             </div>
                         </div>
                     </div>
@@ -318,7 +326,7 @@
                             <img class="img-fluid" src="assets/images/h-s6-img-2.jpg" alt="">
                             <div class="position-absolute h-s6-img-label">
                                 <h3 class="main-h2 fw-bold text-white mb-1 text-uppercase">Traditional</h3>
-                                <a class="text-decoration-none text-white h-s6-img-label-a text-uppercase" href="#">Know More</a>
+                                <a class="text-decoration-none text-white h-s6-img-label-a text-uppercase" href="#">Know More></a>
                             </div>
                         </div>
                     </div>
@@ -421,25 +429,7 @@
     </section>
 
     <!-- footer  -->
-    <section class="mt-5 pt-5 position-relative">
-        <img class="position-absolute z-1 fotr-decor-grain-1" src="assets/images/h-s1-rice-1.png" alt="">
-        <img class="position-absolute z-1 end-0 fotr-decor-grain-2" src="assets/images/h-s1-rice-2.png" alt="">
-        <div class="d-flex justify-content-evenly align-items-center align-items-md-start flex-column flex-md-row position-relative z-2">
-            <a class="order-1 mb-3 text-decoration-none main-h fw-bold text-black px-4 py-2 rounded-pill fs-3 text-uppercase fotr-link-a" href="#">home</a>
-            <a class="order-1 mb-3 text-decoration-none main-h fw-bold text-black px-4 py-2 rounded-pill fs-3 text-uppercase fotr-link-a" href="#">About</a>
-            <a class="order-0 mb-3 order-md-1" href="#"><img src="assets/images/logo.svg" alt=""></a>
-            <a class="order-1 mb-3 text-decoration-none main-h fw-bold text-black px-4 py-2 rounded-pill fs-3 text-uppercase fotr-link-a" href="#">Brand</a>
-            <a class="order-1 mb-3 text-decoration-none main-h fw-bold text-black px-4 py-2 rounded-pill fs-3 text-uppercase fotr-link-a" href="#">Contact</a>
-        </div>
-        <div class="fotr-div-2 text-center py-5 pt-4">
-            <p class="text-uppercase body-p fs-4 my-5">#667, GROUNDFLOOR, SECTOR4, KARNAL, HARIYANA, PIN 132001</p>
-            <div class="d-flex justify-content-center">
-                <a class="fotr-social" href="#"><img class="px-3" src="assets/images/footer-facebook.png" alt=""></a>
-                <a class="fotr-social" href="#"><img class="px-3" src="assets/images/footer-insta.png" alt=""></a>
-                <a class="fotr-social" href="#"><img class="px-3" src="assets/images/footer-youtube.png" alt=""></a>
-            </div>
-        </div>
-    </section>
+    <?php include 'assets/includes/footer.php';?>
     <!-- J Query  -->
     <!-- slick slider  -->
     <script type="text/javascript" src="//code.jquery.com/jquery-1.11.0.min.js"></script>
