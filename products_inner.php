@@ -53,8 +53,8 @@
                     </div>
                 </div>
                 <div class="col-lg-5">
-                    <div class="pb-5 prod-inner-col2-div">
-                        <div class="prod-inner-s2-col2-h-div py-4">
+                    <div class="pb-3">
+                        <div class="prod-inner-s2-col2-h-div pb-4 pt-5 pt-lg-0">
                             <h2 class="text-end main-h2 fw-bold h-s1-h text-uppercase">Al hind</h2>
                             <p class="text-end main-h2 fw-normal fs-3 text-uppercase">Golden Sella</p>
                         </div>
@@ -63,8 +63,26 @@
                     </div>
                     <div>
                         <p class="text-start main-h2 fw-normal fs-3 text-uppercase">AVAILABLE PACK</p>
+                        <div class="position-relative">
+                            <img src="assets/images/prod-inner-pack-no.png" alt="">
+                            <h2 class="main-h2 fw-bold position-absolute translate-middle top-50 prod-inner-s2-col2-packno">30</h2>
+                        </div>
                     </div>
                 </div>
+                <img class="img-fluid mt-5" src="assets/images/prod-inner-border.png" alt="">
+            </div>
+        </div>
+    </section>
+
+    <!-- section-3  -->
+    <section class="my-5 pt-5">
+        <div class="container-fluid p-0">
+            <img class="position-absolute h-s3-grain" src="assets/images/h-s1-grain-img.png" alt="">
+        </div>
+        <div class="container">
+            <div class="text-center position-relative mb-5 pb-3 mt-5">
+                <p class="body-p fw-normal fs-4">We are a company that specializes in bringing you the finest products under five distinct brands - Akbar, Alhind, Alif Laila, Firdous, and Abusalam. Each brand has its unique focus, but all are united by a passion for quality and excellence.</p>
+                <p class="body-p fw-normal fs-4">With our years of experience in the industry, we have become experts in bringing you the very best in [mention the types of products you offer]. Our commitment to exceptional quality, attention to detail, and customer satisfaction has made us a trusted name in the industry. Thank you for choosing our products, and we look forward to bringing you the very best that our brands have to offer.</p>
             </div>
         </div>
     </section>
