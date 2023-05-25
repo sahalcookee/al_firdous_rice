@@ -116,7 +116,7 @@
 
     <!-- section-4  -->
     <section class="py-5 mb-0 mb-lg-5">
-        <div class="conatiner">
+        <div class="container">
             <div class="text-center">
                 <h2 class="main-h2 fw-bold mx-auto max-w fs-1 m-0 text-uppercase">Our Products</h2>
                 <p class="body-p fw-medium">Our range of finest basmati rice comes from thousands of rice growers across India</p>
@@ -245,7 +245,7 @@
                         </a>
                     </div>
                 </div>
-                <div class="text-center mt-5">
+                <div class="text-center d-block d-lg-none mb-4">
                     <img class="img-fluid" src="assets/images/carousel-line.svg" alt="">
                 </div>
             </div>
@@ -254,7 +254,7 @@
 
     <!-- section-5  -->
     <section class="py-5 mb-0 mb-lg-5">
-        <div class="conatiner">
+        <div class="container">
             <div class="text-center">
                 <h2 class="main-h2 fw-bold mx-auto max-w fs-1 m-0 text-uppercase">Recipes</h2>
                 <p class="body-p fw-medium">Make lip-smacking dishes with our award winning products</p>
@@ -263,7 +263,7 @@
             <div class="container mt-5">
                 <div class="recipes-slide row text-center py-4">
                     <div class="h-s4-item">
-                        <a class="h-pro-card-a" href="#">
+                        <a class="h-pro-card-a" href="recipes">
                             <img class="py-4" src="assets/images/h-s5-prdt-1.jpg" alt="">
                             <h5 class="body-p brown-bg px-5 py-2 d-inline-block text-white h-s4-item-p text-uppercase">Alif Laila</h5>
                         </a>
@@ -292,6 +292,10 @@
                             <h5 class="body-p brown-bg px-5 py-2 d-inline-block text-white h-s4-item-p text-uppercase">Alif Laila</h5>
                         </a>
                     </div>
+                </div>
+                <div class="text-center d-block d-lg-none mb-4">
+                    <img class="img-fluid" src="assets/images/carousel-line.svg" alt="">
+                </div>
             </div>
         </div>
     </section>
@@ -423,7 +427,7 @@
 
     <!-- section-10  -->
     <section class="py-5 mb-5">
-        <div class="conatiner-fluid p-0">
+        <div class="container-fluid p-0">
             <div class="h-s10-ban-img"></div>
         </div>
     </section>
@@ -431,92 +435,10 @@
     <!-- footer  -->
     <?php include 'assets/includes/footer.php';?>
     <!-- J Query  -->
-    <!-- slick slider  -->
-    <script type="text/javascript" src="//code.jquery.com/jquery-1.11.0.min.js"></script>
-    <script type="text/javascript" src="//code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
+    <?php include 'assets/includes/jquery_slick.php';?>
     <!-- script -->
     <?php include 'assets/includes/common_script.php';?>
-    
     <!-- slick slider -->
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.js"></script>
-    <script>
-        $('.product-slide').slick({
-            centerMode: true,
-            centerPadding: '10px',
-            autoplay: true,
-            autoplaySpeed: 2000,
-            slidesToShow: 4,
-            slidesToScroll: 3,
-            responsive: [
-                {
-                breakpoint: 998,
-                settings: {
-                    arrows: false,
-                    centerMode: true,
-                    centerPadding: '0px',
-                    slidesToShow: 3
-                }
-                },
-                {
-                breakpoint: 768,
-                settings: {
-                    arrows: false,
-                    centerMode: true,
-                    centerPadding: '0px',
-                    slidesToShow: 2
-                }
-                },
-                {
-                breakpoint: 480,
-                settings: {
-                    arrows: false,
-                    centerMode: false,
-                    centerPadding: '0px',
-                    slidesToShow: 1
-                }
-                }
-            ]
-            });
-
-            $('.recipes-slide').slick({
-            centerMode: true,
-            centerPadding: '10px',
-            autoplay: true,
-            autoplaySpeed: 2000,
-            slidesToShow: 4,
-            slidesToScroll: 3,
-            responsive: [
-                {
-                breakpoint: 1199,
-                settings: {
-                    arrows: true,
-                    centerMode: true,
-                    centerPadding: '0px',
-                    slidesToShow: 3
-                }
-                },
-                {
-                breakpoint: 998,
-                settings: {
-                    arrows: false,
-                    centerMode: true,
-                    centerPadding: '0px',
-                    slidesToShow: 2
-                }
-                },
-
-                {
-                breakpoint: 576,
-                settings: {
-                    arrows: false,
-                    centerMode: true,
-                    centerPadding: '0px',
-                    slidesToShow: 1
-                }
-                }
-            ]
-            });
-            
-    </script>
+    <?php include 'assets/includes/java_slick.php';?>
 </body>
 </html>

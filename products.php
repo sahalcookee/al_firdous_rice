@@ -15,7 +15,7 @@
     ?>
 
     <!-- section -1  -->
-    <section class="my-5 prod-resp-mt">
+    <section class="mt-lg-4 mt-5 pt-5 pt-lg-0 pb-0 pb-lg-5">
         <div class="yellow-bg d-flex justify-content-between">
             <span class="brown-bg d-inline-block prod-s1-span prod-s1-span-1"></span>
             <div class="text-center py-5 align-self-center">
@@ -25,9 +25,19 @@
             <span class="brown-bg d-inline-block prod-s1-span prod-s1-span-2"></span>
         </div>
     </section>
+    <!-- <section class="prod-resp-mt prod-inner-s1 mx-auto">
+        <div class="yellow-bg d-flex justify-content-between prod-inner-s1-hdiv overflow-hidden">
+            <span class="brown-bg d-inline-block prod-s1-span prod-s1-span-1"></span>
+            <div class="text-center py-5 align-self-center">
+                <h2 class="main-h2 fw-bold h-s1-h m-0 text-uppercase">Our Products</h2>
+                <img class="mt-3 img-fluid" src="assets/images/h-decor.png" alt="">
+            </div>
+            <span class="brown-bg d-inline-block prod-s1-span prod-s1-span-2"></span>
+        </div>
+    </section> -->
 
     <!-- section-2  -->
-    <section class="position-relative my-5 py-5">
+    <section class="position-relative py-5 mb-0 mb-lg-5">
         <img class="position-absolute h-s1-decor-1 top-50" src="assets/images/h-s1-rice-1.png" alt="">
         <img class="position-absolute h-s1-decor-2 end-0 bottom-0" src="assets/images/h-s1-rice-2.png" alt="">
         <div class="container">
@@ -144,7 +154,7 @@
     </section>
 
     <!-- section-3  -->
-    <section class="my-5 py-5">
+    <section class="py-5 mb-0 mb-lg-5">
         <div class="container">
             <div class="prod-s2-div p-5 position-relative">
                 <h2 class="text-center main-h2 fw-bold fs-1 text-uppercase position-absolute translate-middle top-0 start-50 px-5 prod-s2-head">Kaima</h2>
@@ -187,7 +197,7 @@
     </section>
 
     <!-- section-4  -->
-    <section class="my-5 py-5">
+    <section class="py-5 mb-0 mb-lg-5">
         <div class="container">
             <div class="prod-s2-div p-5 position-relative">
                 <h2 class="text-center main-h2 fw-bold fs-1 text-uppercase position-absolute translate-middle top-0 start-50 px-5 prod-s2-head">Kolam</h2>

@@ -15,7 +15,16 @@
     ?>
 
     <!-- section -1  -->
-    <section class="my-5 prod-resp-mt">
+    <!-- <section class="prod-resp-mt prod-inner-s1 mx-auto">
+        <div class="yellow-bg text-center prod-inner-s1-hdiv">
+            <div class="text-center py-5">
+                <h2 class="main-h2 fw-bold h-s1-h m-0 text-uppercase">Our Products</h2>
+                <img class="mt-3 img-fluid" src="assets/images/h-decor.png" alt="">
+            </div>
+        </div>
+    </section> -->
+
+    <section class="mt-lg-4 mt-5 pt-5 pt-lg-0 pb-0 pb-lg-5">
         <div class="yellow-bg text-center">
             <div class="text-center py-5">
                 <h2 class="main-h2 fw-bold h-s1-h m-0 text-uppercase">Our Products</h2>
@@ -25,7 +34,7 @@
     </section>
 
     <!-- section-2  -->
-    <section class="my-5 pt-5">
+    <section class="py-5 mb-0 mb-lg-5">
         <div class="container">
             <div class="row">
                 <div class="col-lg-7">
@@ -75,22 +84,160 @@
     </section>
 
     <!-- section-3  -->
-    <section class="my-5 pt-5">
-        <div class="container-fluid p-0">
-            <img class="position-absolute h-s3-grain" src="assets/images/h-s1-grain-img.png" alt="">
+    <section class="py-5 mb-0 mb-lg-5">
+        <div class="container-fluid p-0 position-relative">
+            <img class="position-absolute h-s3-grain prod-inner-s3-grain" src="assets/images/h-s1-grain-img.png" alt="">
         </div>
         <div class="container">
-            <div class="text-center position-relative mb-5 pb-3 mt-5">
+            <div class="text-center mb-5 pb-3 mt-5">
                 <p class="body-p fw-normal fs-4">We are a company that specializes in bringing you the finest products under five distinct brands - Akbar, Alhind, Alif Laila, Firdous, and Abusalam. Each brand has its unique focus, but all are united by a passion for quality and excellence.</p>
-                <p class="body-p fw-normal fs-4">With our years of experience in the industry, we have become experts in bringing you the very best in [mention the types of products you offer]. Our commitment to exceptional quality, attention to detail, and customer satisfaction has made us a trusted name in the industry. Thank you for choosing our products, and we look forward to bringing you the very best that our brands have to offer.</p>
+            </div>
+        </div>
+        <div class="container-fluid p-0">
+            <div class="brown-bg">
+                <div class="container">
+                    <div class="p-5 text-center">
+                        <p class="body-p fw-normal fs-4 text-white">With our years of experience in the industry, we have become experts in bringing you the very best in [mention the types of products you offer]. Our commitment to exceptional quality, attention to detail, and customer satisfaction has made us a trusted name in the industry. Thank you for choosing our products, and we look forward to bringing you the very best that our brands have to offer.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="py-5 mb-0 mb-lg-5">
+        <div class="container">
+            <div class="product-slide row text-center py-4">
+                <div class="h-s4-item">
+                    <a class="h-pro-card-a" href="#">
+                        <img class="h-s4-product-img" src="assets/images/aliflaila.png" alt="">
+                        <h5 class="body-p brown-bg px-5 py-2 d-inline-block text-white h-s4-item-p text-uppercase">Alif Laila</h5>
+                    </a>
+                </div>
+                <div class="h-s4-item">
+                    <a class="h-pro-card-a" href="#">
+                        <img class="h-s4-product-img" src="assets/images/alhind.png" alt="">
+                        <h5 class="body-p brown-bg px-5 py-2 d-inline-block text-white h-s4-item-p text-uppercase">Al Hind</h5>
+                    </a>
+                </div>
+                <div class="h-s4-item">
+                    <a class="h-pro-card-a" href="#">
+                        <img class="h-s4-product-img" src="assets/images/abusalam.png" alt="">
+                        <h5 class="body-p brown-bg px-5 py-2 d-inline-block text-white h-s4-item-p text-uppercase">Abu Salam</h5>
+                    </a>
+                </div>
+                <div class="h-s4-item">
+                    <a class="h-pro-card-a" href="#">
+                        <img class="h-s4-product-img" src="assets/images/akbarcity-jeera.png" alt="">
+                        <h5 class="body-p brown-bg px-5 py-2 d-inline-block text-white h-s4-item-p text-uppercase">Akbar city</h5>
+                    </a>
+                </div>
+                <div class="h-s4-item">
+                    <a class="h-pro-card-a" href="#">
+                        <img class="h-s4-product-img" src="assets/images/akbarcity-rozana.png" alt="">
+                        <h5 class="body-p brown-bg px-5 py-2 d-inline-block text-white h-s4-item-p text-uppercase">Akbar city</h5>
+                    </a>
+                </div>
+                <div class="h-s4-item">
+                    <a class="h-pro-card-a" href="#">
+                        <img class="h-s4-product-img" src="assets/images/akbarcity-rozana-green.png" alt="">
+                        <h5 class="body-p brown-bg px-5 py-2 d-inline-block text-white h-s4-item-p text-uppercase">Akbar city</h5>
+                    </a>
+                </div>
+                <div class="h-s4-item">
+                    <a class="h-pro-card-a" href="#">
+                        <img class="h-s4-product-img" src="assets/images/akbarcityxxl.png" alt="">
+                        <h5 class="body-p brown-bg px-5 py-2 d-inline-block text-white h-s4-item-p text-uppercase">Akbar city</h5>
+                    </a>
+                </div>
+                <div class="h-s4-item">
+                    <a class="h-pro-card-a" href="#">
+                        <img class="h-s4-product-img" src="assets/images/akbarcity-xxl-green.png" alt="">
+                        <h5 class="body-p brown-bg px-5 py-2 d-inline-block text-white h-s4-item-p text-uppercase">Akbar city</h5>
+                    </a>
+                </div>
+                <div class="h-s4-item">
+                    <a class="h-pro-card-a" href="#">
+                        <img class="h-s4-product-img" src="assets/images/alhind-biriyani-blue.png" alt="">
+                        <h5 class="body-p brown-bg px-5 py-2 d-inline-block text-white h-s4-item-p text-uppercase">Al hind</h5>
+                    </a>
+                </div>
+                <div class="h-s4-item">
+                    <a class="h-pro-card-a" href="#">
+                        <img class="h-s4-product-img" src="assets/images/alhind-bukhari.png" alt="">
+                        <h5 class="body-p brown-bg px-5 py-2 d-inline-block text-white h-s4-item-p text-uppercase">Al hind</h5>
+                    </a>
+                </div>
+                <div class="h-s4-item">
+                    <a class="h-pro-card-a" href="#">
+                        <img class="h-s4-product-img" src="assets/images/alhind-super.png" alt="">
+                        <h5 class="body-p brown-bg px-5 py-2 d-inline-block text-white h-s4-item-p text-uppercase">Al hind</h5>
+                    </a>
+                </div>
+                <div class="h-s4-item">
+                    <a class="h-pro-card-a" href="#">
+                        <img class="h-s4-product-img" src="assets/images/alhind-whitesella.png" alt="">
+                        <h5 class="body-p brown-bg px-5 py-2 d-inline-block text-white h-s4-item-p text-uppercase">Al hind</h5>
+                    </a>
+                </div>
+                <div class="h-s4-item">
+                    <a class="h-pro-card-a" href="#">
+                        <img class="h-s4-product-img" src="assets/images/alkilal-orange.png" alt="">
+                        <h5 class="body-p brown-bg px-5 py-2 d-inline-block text-white h-s4-item-p text-uppercase">Al qilal</h5>
+                    </a>
+                </div>
+                <div class="h-s4-item">
+                    <a class="h-pro-card-a" href="#">
+                        <img class="h-s4-product-img" src="assets/images/alqilal-basmathi.png" alt="">
+                        <h5 class="body-p brown-bg px-5 py-2 d-inline-block text-white h-s4-item-p text-uppercase">Al qilal</h5>
+                    </a>
+                </div>
+                <div class="h-s4-item">
+                    <a class="h-pro-card-a" href="#">
+                        <img class="h-s4-product-img" src="assets/images/alqilal-blck.png" alt="">
+                        <h5 class="body-p brown-bg px-5 py-2 d-inline-block text-white h-s4-item-p text-uppercase">Al qilal</h5>
+                    </a>
+                </div>
+                <div class="h-s4-item">
+                    <a class="h-pro-card-a" href="#">
+                        <img class="h-s4-product-img" src="assets/images/alqilal-green.png" alt="">
+                        <h5 class="body-p brown-bg px-5 py-2 d-inline-block text-white h-s4-item-p text-uppercase">Al qilal</h5>
+                    </a>
+                </div>
+                <div class="h-s4-item">
+                    <a class="h-pro-card-a" href="#">
+                        <img class="h-s4-product-img" src="assets/images/alqilal-jeerakam.png" alt="">
+                        <h5 class="body-p brown-bg px-5 py-2 d-inline-block text-white h-s4-item-p text-uppercase">Al qilal</h5>
+                    </a>
+                </div>
+                <div class="h-s4-item">
+                    <a class="h-pro-card-a" href="#">
+                        <img class="h-s4-product-img" src="assets/images/alqilal-kolam.png" alt="">
+                        <h5 class="body-p brown-bg px-5 py-2 d-inline-block text-white h-s4-item-p text-uppercase">Al qilal</h5>
+                    </a>
+                </div>
+                <div class="h-s4-item">
+                    <a class="h-pro-card-a" href="#">
+                        <img class="h-s4-product-img" src="assets/images/akbarcity-xxl-green.png" alt="">
+                        <h5 class="body-p brown-bg px-5 py-2 d-inline-block text-white h-s4-item-p text-uppercase">Akbar city</h5>
+                    </a>
+                </div>
+                <div class="h-s4-item">
+                    <a class="h-pro-card-a" href="#">
+                        <img class="h-s4-product-img" src="assets/images/qilaf-jeerakam-brown.png" alt="">
+                        <h5 class="body-p brown-bg px-5 py-2 d-inline-block text-white h-s4-item-p text-uppercase">Qilaf</h5>
+                    </a>
+                </div>
             </div>
         </div>
     </section>
 
     <!-- footer  -->
     <?php include 'assets/includes/footer.php';?>
-
+    <!-- J Query  -->
+    <?php include 'assets/includes/jquery_slick.php';?>
     <!-- script -->
     <?php include 'assets/includes/common_script.php';?>
+    <!-- slick slider -->
+    <?php include 'assets/includes/java_slick.php';?>
 </body>
 </html>

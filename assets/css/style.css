@@ -321,3 +321,55 @@ body{
 .prod-inner-s2-col2-packno{
     left: 37px;
 }
+.prod-inner-s3-grain{
+    left: -52px;
+    top: -105px;
+}
+
+/* -------------------------------------------------------------************************* */
+.prod-inner-s1{
+    max-width: 793px;
+}
+.prod-inner-s1-hdiv{
+    border-bottom-left-radius: 60px;
+    border-bottom-right-radius: 60px;
+}
+/* -------------------------------------------------------------*********************************** */
+
+/* recipes  */
+.reci-s2-h{
+    position: relative;
+}
+.reci-s2-h::before{
+    position: absolute;
+    content: '';
+    background-image: url(../images/recips-h-decor.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 368px;
+    height: 63px;
+    top: 11px;
+    left: -126px;
+    background-size: 100%;
+}
+.recipes-s4-grain{
+    transform: rotate(50deg);
+    left: -40px;
+    top: -46px; 
+}
+.recipes-s4-grain-2{
+    right: 0;
+    transform: rotate(-100deg);
+    top: -21px;
+}
+.recipes-s4-a{
+    color: #d1d3d4;
+}
+
+/* recipes inner  */
+.reci-inner-iframe-div{
+    padding-top: 56.25%;
+}
+.recipes-inner-s2-h{
+    color: #dfd9ca;
+}

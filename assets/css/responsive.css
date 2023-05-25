@@ -47,11 +47,6 @@
         z-index: 0;
         transform: rotate(-30deg);
     }
-    /* product  */
-    .prod-resp-mt{
-        margin-top: 140px !important;
-    }
-}
 @media (max-width: 767.98px) {
     /* home  */
     .h-s1-h{
@@ -77,6 +72,10 @@
     /* footer  */
     .fotr-decor-grain-1,.fotr-decor-grain-2{
         width: 25%;
+    }
+    /* recipes  */
+    .reci-s2-h::before{
+        background-size: 72%;
     }
 }
 @media (max-width: 575.98px) {
