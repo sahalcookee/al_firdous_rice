@@ -9,6 +9,7 @@
             <a class="order-1 mb-3 text-decoration-none main-h fw-bold text-black px-4 py-2 rounded-pill fs-3 text-uppercase fotr-link-a" href="index">Home</a>
             <a class="order-1 mb-3 text-decoration-none main-h fw-bold text-black px-4 py-2 rounded-pill fs-3 text-uppercase fotr-link-a" href="#">About</a>
             <a class="order-1 mb-3 text-decoration-none main-h fw-bold text-black px-4 py-2 rounded-pill fs-3 text-uppercase fotr-link-a" href="products">Products</a>
+            <a class="order-1 mb-3 text-decoration-none main-h fw-bold text-black px-4 py-2 rounded-pill fs-3 text-uppercase fotr-link-a" href="recipes">Recipes</a>
             <a class="order-1 mb-3 text-decoration-none main-h fw-bold text-black px-4 py-2 rounded-pill fs-3 text-uppercase fotr-link-a" href="#">Contact</a>
         </div>
     </div>

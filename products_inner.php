@@ -41,10 +41,10 @@
                     <div id="carouselExampleAutoplaying" class="carousel slide" data-bs-touch="true" data-bs-ride="carousel">
                         <div class="carousel-inner rounded-5">
                             <div class="carousel-item active">
-                                <img src="assets/images/prod-inner-img.jpg" class="d-block w-100" alt="...">
+                                <img src="assets/images/product-inner-alhind-1.jpg" class="d-block w-100" alt="...">
                             </div>
                             <div class="carousel-item">
-                                <img src="assets/images/prod-inner-img.jpg" class="d-block w-100" alt="...">
+                                <img src="assets/images/product-inner-alhind-2.jpg" class="d-block w-100" alt="...">
                             </div>
                         </div>
                         <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleAutoplaying" data-bs-slide="prev">
@@ -96,7 +96,7 @@
         <div class="container-fluid p-0">
             <div class="brown-bg">
                 <div class="container">
-                    <div class="p-5 text-center">
+                    <div class="p-2 py-5 p-md-5 text-center">
                         <p class="body-p fw-normal fs-4 text-white">With our years of experience in the industry, we have become experts in bringing you the very best in [mention the types of products you offer]. Our commitment to exceptional quality, attention to detail, and customer satisfaction has made us a trusted name in the industry. Thank you for choosing our products, and we look forward to bringing you the very best that our brands have to offer.</p>
                     </div>
                 </div>
