@@ -13,17 +13,7 @@
     } 
     }
     ?>
-
-    <!-- section -1  -->
-    <!-- <section class="prod-resp-mt prod-inner-s1 mx-auto">
-        <div class="yellow-bg text-center prod-inner-s1-hdiv">
-            <div class="text-center py-5">
-                <h2 class="main-h2 fw-bold h-s1-h m-0 text-uppercase">Recipes</h2>
-                <img class="mt-3 img-fluid" src="assets/images/h-decor.png" alt="">
-            </div>
-        </div>
-    </section> -->
-    
+     
     <section class="mt-lg-4 mt-5 pt-5 pt-lg-0 pb-0 pb-lg-5">
         <div class="yellow-bg text-center">
             <div class="text-center py-5">

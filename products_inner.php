@@ -14,16 +14,6 @@
     }
     ?>
 
-    <!-- section -1  -->
-    <!-- <section class="prod-resp-mt prod-inner-s1 mx-auto">
-        <div class="yellow-bg text-center prod-inner-s1-hdiv">
-            <div class="text-center py-5">
-                <h2 class="main-h2 fw-bold h-s1-h m-0 text-uppercase">Our Products</h2>
-                <img class="mt-3 img-fluid" src="assets/images/h-decor.png" alt="">
-            </div>
-        </div>
-    </section> -->
-
     <section class="mt-lg-4 mt-5 pt-5 pt-lg-0 pb-0 pb-lg-5">
         <div class="yellow-bg text-center">
             <div class="text-center py-5">
@@ -63,11 +53,11 @@
                 </div>
                 <div class="col-lg-5">
                     <div class="pb-3">
-                        <div class="prod-inner-s2-col2-h-div pb-4 pt-5 pt-lg-0">
-                            <h2 class="text-end main-h2 fw-bold h-s1-h text-uppercase">Al hind</h2>
-                            <p class="text-end main-h2 fw-normal fs-3 text-uppercase">Golden Sella</p>
+                        <div class="text-start text-md-end prod-inner-s2-col2-h-div pb-4 pt-5 pt-lg-0">
+                            <h2 class="main-h2 fw-bold h-s1-h text-uppercase">Al hind</h2>
+                            <p class="main-h2 fw-normal fs-3 text-uppercase">Golden Sella</p>
                         </div>
-                        <p class="text-end body-p fw-medium">is a variety of long, slender-grained aromatic rice which is traditionally grown in India.Basmati rice is believed to have been cultivated in the Indian subcontinent for centuries. Earliest mention of Basmati rice has been made in the epic Heer Ranjha composed by the Punjabi poet Varis Shah in 1766.India accounts for over 70% of the world's basmati rice production</p>
+                        <p class="text-start text-md-end body-p fw-medium">is a variety of long, slender-grained aromatic rice which is traditionally grown in India.Basmati rice is believed to have been cultivated in the Indian subcontinent for centuries. Earliest mention of Basmati rice has been made in the epic Heer Ranjha composed by the Punjabi poet Varis Shah in 1766.India accounts for over 70% of the world's basmati rice production</p>
                         <img class="img-fluid" src="assets/images/prod-inner-border.png" alt="">
                     </div>
                     <div>

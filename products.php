@@ -25,16 +25,6 @@
             <span class="brown-bg d-inline-block prod-s1-span prod-s1-span-2"></span>
         </div>
     </section>
-    <!-- <section class="prod-resp-mt prod-inner-s1 mx-auto">
-        <div class="yellow-bg d-flex justify-content-between prod-inner-s1-hdiv overflow-hidden">
-            <span class="brown-bg d-inline-block prod-s1-span prod-s1-span-1"></span>
-            <div class="text-center py-5 align-self-center">
-                <h2 class="main-h2 fw-bold h-s1-h m-0 text-uppercase">Our Products</h2>
-                <img class="mt-3 img-fluid" src="assets/images/h-decor.png" alt="">
-            </div>
-            <span class="brown-bg d-inline-block prod-s1-span prod-s1-span-2"></span>
-        </div>
-    </section> -->
 
     <!-- section-2  -->
     <section class="position-relative py-5 mb-0 mb-lg-5">

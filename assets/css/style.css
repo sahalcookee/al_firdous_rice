@@ -326,16 +326,6 @@ body{
     top: -105px;
 }
 
-/* -------------------------------------------------------------************************* */
-.prod-inner-s1{
-    max-width: 793px;
-}
-.prod-inner-s1-hdiv{
-    border-bottom-left-radius: 60px;
-    border-bottom-right-radius: 60px;
-}
-/* -------------------------------------------------------------*********************************** */
-
 /* recipes  */
 .reci-s2-h{
     position: relative;
