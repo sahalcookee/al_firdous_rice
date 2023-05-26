@@ -407,7 +407,7 @@
             <div class="container-fluid p-0">
                 <div class="row g-0">
                     <div class="offset-lg-5 col-lg-7">
-                        <div class="h-s9-div brown-bg p-5 rounded-start-5 position-relative">
+                        <div class="h-s9-div brown-bg p-2 p-md-3 p-lg-5 rounded-start-5 position-relative">
                             <img class="position-absolute h-s9-ricepack-img d-none d-md-block" src="assets/images/abusalam.png" alt="">
                             <img class="position-absolute h-s9-ricegrain-img d-none d-md-block" src="assets/images/h-s9-grain-decor.png" alt="">
                             <div class="h-s9-head-div">

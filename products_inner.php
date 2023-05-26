@@ -228,6 +228,9 @@
                     </a>
                 </div>
             </div>
+            <div class="text-center d-block d-lg-none mb-4">
+                <img class="img-fluid" src="assets/images/carousel-line.svg" alt="">
+            </div>
         </div>
     </section>
 

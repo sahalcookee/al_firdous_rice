@@ -4,14 +4,14 @@
             <div class="d-none d-lg-block">
                 <div class="desk-nav rounded-pill position-relative p-5 pb-3">
                     <div class="position-absolute top-0 start-50 translate-middle">
-                        <a href="products_inner"><img src="assets/images/logo.svg" alt=""></a>
+                        <a href="index"><img src="assets/images/logo.svg" alt=""></a>
                     </div>
                     <div class="d-flex body-p mt-4 justify-content-evenly">
                         <a class="blk-prime text-decoration-none px-4 py-2 rounded-pill bg-white border border-2 fs-5 nav-a <?php active('index');?>" href="index">Home</a>
                         <a class="blk-prime text-decoration-none px-4 py-2 rounded-pill bg-white border border-2 fs-5 nav-a <?php active('about');?>" href="#">About</a>
                         <a class="blk-prime text-decoration-none px-4 py-2 rounded-pill bg-white border border-2 fs-5 nav-a <?php active('products');?> <?php active('products_inner');?>" href="products">Products</a>
                         <a class="blk-prime text-decoration-none px-4 py-2 rounded-pill bg-white border border-2 fs-5 nav-a <?php active('recipes');?> <?php active('recipes_inner');?>" href="recipes">Recipes</a>
-                        <a class="blk-prime text-decoration-none px-4 py-2 rounded-pill bg-white border border-2 fs-5 nav-a <?php active('contact');?>" href="recipes_inner">Contact</a>
+                        <a class="blk-prime text-decoration-none px-4 py-2 rounded-pill bg-white border border-2 fs-5 nav-a <?php active('contact');?>" href="#">Contact</a>
                     </div>
                 </div>
             </div>
@@ -19,7 +19,7 @@
             <div class="d-block d-lg-none">
                 <nav class="navbar resp-nav fixed-top">
                     <div class="container-fluid">
-                        <a class="navbar-brand ms-3" href="#"><img class="w-75 resp-nav-logo-1" src="assets/images/logo.svg" alt=""></a>
+                        <a class="navbar-brand ms-3" href="index"><img class="w-75 resp-nav-logo-1" src="assets/images/logo.svg" alt=""></a>
                         <button class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasNavbar" aria-controls="offcanvasNavbar" aria-label="Toggle navigation">
                             <img src="assets/images/resp-toggle.png" alt="">
                         </button>
