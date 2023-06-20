@@ -21,7 +21,7 @@
                     <div class="container-fluid">
                         <a class="navbar-brand ms-3" href="index"><img class="w-75 resp-nav-logo-1" src="assets/images/logo.svg" alt=""></a>
                         <button class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasNavbar" aria-controls="offcanvasNavbar" aria-label="Toggle navigation">
-                            <img src="assets/images/resp-toggle.png" alt="">
+                            <img style="width:36px;" src="assets/images/resp-toggle.png" alt="">
                         </button>
                         <div class="offcanvas offcanvas-end" tabindex="-1" id="offcanvasNavbar" aria-labelledby="offcanvasNavbarLabel">
                             <div class="offcanvas-header">
