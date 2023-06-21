@@ -16,8 +16,8 @@
     <div class="fotr-div-2 text-center py-5 pt-4">
         <p class="text-uppercase body-p fs-4 my-5">#667, GROUNDFLOOR, SECTOR4, KARNAL, HARIYANA, PIN 132001</p>
         <div class="d-flex justify-content-center pb-0 pb-lg-4">
-            <a class="fotr-social" href="#"><img class="px-3" src="assets/images/footer-facebook.png" alt=""></a>
-            <a class="fotr-social" href="#"><img class="px-3" src="assets/images/footer-insta.png" alt=""></a>
+            <a class="fotr-social" href="https://www.facebook.com/alfirdousrice" target="_blank"><img class="px-3" src="assets/images/footer-facebook.png" alt=""></a>
+            <a class="fotr-social" href="https://www.instagram.com/alfirdous_foods/" target="_blank"><img class="px-3" src="assets/images/footer-insta.png" alt=""></a>
             <a class="fotr-social" href="#"><img class="px-3" src="assets/images/footer-youtube.png" alt=""></a>
         </div>
     </div>
