@@ -34,106 +34,106 @@
             <div class="prod-s2-div p-5 position-relative">
                 <h2 class="text-center main-h2 fw-bold fs-1 text-uppercase position-absolute translate-middle top-0 start-50 px-5 prod-s2-head">BASMATI</h2>
                 <div class="row g-5 justify-content-center">
-                    <div class="col-md-6 col-lg-3">
+                    <div class="col-6 col-md-4 col-lg-3">
                         <div class="h-s4-item">
                             <a class="text-decoration-none d-inline-grid h-pro-card-a" href="basmati">
-                                <img class="h-s4-product-img" src="assets/images/alhind.png" alt="">
+                                <img class="h-s4-product-img img-fluid" src="assets/images/alhind.png" alt="">
                                 <h5 class="body-p brown-bg py-2 d-inline-block text-white h-s4-item-p text-uppercase">Al Hind</h5>
                             </a>
                         </div>
                     </div>
-                    <div class="col-md-6 col-lg-3">
+                    <div class="col-6 col-md-4 col-lg-3">
                         <div class="h-s4-item">
                             <a class="text-decoration-none d-inline-grid h-pro-card-a" href="basmati">
-                                <img class="h-s4-product-img" src="assets/images/alhind-super.png" alt="">
+                                <img class="h-s4-product-img img-fluid" src="assets/images/alhind-super.png" alt="">
                                 <h5 class="body-p brown-bg py-2 d-inline-block text-white h-s4-item-p text-uppercase">Al Hind</h5>
                             </a>
                         </div>
                     </div>
-                    <div class="col-md-6 col-lg-3">
+                    <div class="col-6 col-md-4 col-lg-3">
                         <div class="h-s4-item">
                             <a class="text-decoration-none d-inline-grid h-pro-card-a" href="basmati">
-                                <img class="h-s4-product-img" src="assets/images/alhind-whitesella.png" alt="">
+                                <img class="h-s4-product-img img-fluid" src="assets/images/alhind-whitesella.png" alt="">
                                 <h5 class="body-p brown-bg py-2 d-inline-block text-white h-s4-item-p text-uppercase">Al Hind</h5>
                             </a>
                         </div>
                     </div>
-                    <div class="col-md-6 col-lg-3">
+                    <div class="col-6 col-md-4 col-lg-3">
                         <div class="h-s4-item">
                             <a class="text-decoration-none d-inline-grid h-pro-card-a" href="basmati">
-                                <img class="h-s4-product-img" src="assets/images/alhind-bukhari.png" alt="">
+                                <img class="h-s4-product-img img-fluid" src="assets/images/alhind-bukhari.png" alt="">
                                 <h5 class="body-p brown-bg py-2 d-inline-block text-white h-s4-item-p text-uppercase">Al Hind</h5>
                             </a>
                         </div>
                     </div>
-                    <div class="col-md-6 col-lg-3">
+                    <div class="col-6 col-md-4 col-lg-3">
                         <div class="h-s4-item">
                             <a class="text-decoration-none d-inline-grid h-pro-card-a" href="basmati">
-                                <img class="h-s4-product-img" src="assets/images/alhind-biriyani-blue.png" alt="">
+                                <img class="h-s4-product-img img-fluid" src="assets/images/alhind-biriyani-blue.png" alt="">
                                 <h5 class="body-p brown-bg py-2 d-inline-block text-white h-s4-item-p text-uppercase">Al Hind</h5>
                             </a>
                         </div>
                     </div>
-                    <div class="col-md-6 col-lg-3">
+                    <div class="col-6 col-md-4 col-lg-3">
                         <div class="h-s4-item">
                             <a class="text-decoration-none d-inline-grid h-pro-card-a" href="basmati">
-                                <img class="h-s4-product-img" src="assets/images/akbarcity-rozana-green.png" alt="">
+                                <img class="h-s4-product-img img-fluid" src="assets/images/akbarcity-rozana-green.png" alt="">
                                 <h5 class="body-p brown-bg py-2 d-inline-block text-white h-s4-item-p text-uppercase">Akbar City</h5>
                             </a>
                         </div>
                     </div>
-                    <div class="col-md-6 col-lg-3">
+                    <div class="col-6 col-md-4 col-lg-3">
                         <div class="h-s4-item">
                             <a class="text-decoration-none d-inline-grid h-pro-card-a" href="basmati">
-                                <img class="h-s4-product-img" src="assets/images/akbarcity-xxl-green.png" alt="">
+                                <img class="h-s4-product-img img-fluid" src="assets/images/akbarcity-xxl-green.png" alt="">
                                 <h5 class="body-p brown-bg py-2 d-inline-block text-white h-s4-item-p text-uppercase">Akbar City</h5>
                             </a>
                         </div>
                     </div>
-                    <div class="col-md-6 col-lg-3">
+                    <div class="col-6 col-md-4 col-lg-3">
                         <div class="h-s4-item">
                             <a class="text-decoration-none d-inline-grid h-pro-card-a" href="basmati">
-                                <img class="h-s4-product-img" src="assets/images/akbarcityxxl.png" alt="">
+                                <img class="h-s4-product-img img-fluid" src="assets/images/akbarcityxxl.png" alt="">
                                 <h5 class="body-p brown-bg py-2 d-inline-block text-white h-s4-item-p text-uppercase">Akbar City</h5>
                             </a>
                         </div>
                     </div>
-                    <div class="col-md-6 col-lg-3">
+                    <div class="col-6 col-md-4 col-lg-3">
                         <div class="h-s4-item">
                             <a class="text-decoration-none d-inline-grid h-pro-card-a" href="basmati">
-                                <img class="h-s4-product-img" src="assets/images/akbarcity-rozana.png" alt="">
+                                <img class="h-s4-product-img img-fluid" src="assets/images/akbarcity-rozana.png" alt="">
                                 <h5 class="body-p brown-bg py-2 d-inline-block text-white h-s4-item-p text-uppercase">Akbar City</h5>
                             </a>
                         </div>
                     </div>
-                    <div class="col-md-6 col-lg-3">
+                    <div class="col-6 col-md-4 col-lg-3">
                         <div class="h-s4-item">
                             <a class="text-decoration-none d-inline-grid h-pro-card-a" href="basmati">
-                                <img class="h-s4-product-img" src="assets/images/alqilal-green.png" alt="">
+                                <img class="h-s4-product-img img-fluid" src="assets/images/alqilal-green.png" alt="">
                                 <h5 class="body-p brown-bg py-2 d-inline-block text-white h-s4-item-p text-uppercase">Al Qilal</h5>
                             </a>
                         </div>
                     </div>
-                    <div class="col-md-6 col-lg-3">
+                    <div class="col-6 col-md-4 col-lg-3">
                         <div class="h-s4-item">
                             <a class="text-decoration-none d-inline-grid h-pro-card-a" href="basmati">
-                                <img class="h-s4-product-img" src="assets/images/alkilal-orange.png" alt="">
+                                <img class="h-s4-product-img img-fluid" src="assets/images/alkilal-orange.png" alt="">
                                 <h5 class="body-p brown-bg py-2 d-inline-block text-white h-s4-item-p text-uppercase">Al Qilal</h5>
                             </a>
                         </div>
                     </div>
-                    <div class="col-md-6 col-lg-3">
+                    <div class="col-6 col-md-4 col-lg-3">
                         <div class="h-s4-item">
                             <a class="text-decoration-none d-inline-grid h-pro-card-a" href="basmati">
-                                <img class="h-s4-product-img" src="assets/images/alqilal-basmathi.png" alt="">
+                                <img class="h-s4-product-img img-fluid" src="assets/images/alqilal-basmathi.png" alt="">
                                 <h5 class="body-p brown-bg py-2 d-inline-block text-white h-s4-item-p text-uppercase">Al Qilal</h5>
                             </a>
                         </div>
                     </div>
-                    <div class="col-md-6 col-lg-3">
+                    <div class="col-6 col-md-4 col-lg-3">
                         <div class="h-s4-item">
                             <a class="text-decoration-none d-inline-grid h-pro-card-a" href="basmati">
-                                <img class="h-s4-product-img" src="assets/images/alqilal-blck.png" alt="">
+                                <img class="h-s4-product-img img-fluid" src="assets/images/alqilal-blck.png" alt="">
                                 <h5 class="body-p brown-bg py-2 d-inline-block text-white h-s4-item-p text-uppercase">Al Qilal</h5>
                             </a>
                         </div>
@@ -149,34 +149,34 @@
             <div class="prod-s2-div p-5 position-relative">
                 <h2 class="text-center main-h2 fw-bold fs-1 text-uppercase position-absolute translate-middle top-0 start-50 px-5 prod-s2-head">Kaima</h2>
                 <div class="row g-5 justify-content-center">
-                    <div class="col-md-6 col-lg-3">
+                    <div class="col-6 col-md-4 col-lg-3">
                         <div class="h-s4-item">
                             <a class="text-decoration-none d-inline-grid h-pro-card-a" href="kaima">
-                                <img class="h-s4-product-img" src="assets/images/aliflaila.png" alt="">
+                                <img class="h-s4-product-img img-fluid" src="assets/images/aliflaila.png" alt="">
                                 <h5 class="body-p brown-bg py-2 d-inline-block text-white h-s4-item-p text-uppercase">Alif Laila</h5>
                             </a>
                         </div>
                     </div>
-                    <div class="col-md-6 col-lg-3">
+                    <div class="col-6 col-md-4 col-lg-3">
                         <div class="h-s4-item">
                             <a class="text-decoration-none d-inline-grid h-pro-card-a" href="kaima">
-                                <img class="h-s4-product-img" src="assets/images/qilaf-jeerakam-brown.png" alt="">
+                                <img class="h-s4-product-img img-fluid" src="assets/images/qilaf-jeerakam-brown.png" alt="">
                                 <h5 class="body-p brown-bg py-2 d-inline-block text-white h-s4-item-p text-uppercase">Qilaf</h5>
                             </a>
                         </div>
                     </div>
-                    <div class="col-md-6 col-lg-3">
+                    <div class="col-6 col-md-4 col-lg-3">
                         <div class="h-s4-item">
                             <a class="text-decoration-none d-inline-grid h-pro-card-a" href="kaima">
-                                <img class="h-s4-product-img" src="assets/images/akbarcity-jeera.png" alt="">
+                                <img class="h-s4-product-img img-fluid" src="assets/images/akbarcity-jeera.png" alt="">
                                 <h5 class="body-p brown-bg py-2 d-inline-block text-white h-s4-item-p text-uppercase">Akbar City</h5>
                             </a>
                         </div>
                     </div>
-                    <div class="col-md-6 col-lg-3">
+                    <div class="col-6 col-md-4 col-lg-3">
                         <div class="h-s4-item">
                             <a class="text-decoration-none d-inline-grid h-pro-card-a" href="kaima">
-                                <img class="h-s4-product-img" src="assets/images/alqilal-jeerakam.png" alt="">
+                                <img class="h-s4-product-img img-fluid" src="assets/images/alqilal-jeerakam.png" alt="">
                                 <h5 class="body-p brown-bg py-2 d-inline-block text-white h-s4-item-p text-uppercase">Al qilal</h5>
                             </a>
                         </div>
@@ -192,26 +192,26 @@
             <div class="prod-s2-div p-5 position-relative">
                 <h2 class="text-center main-h2 fw-bold fs-1 text-uppercase position-absolute translate-middle top-0 start-50 px-5 prod-s2-head">Kolam</h2>
                 <div class="row g-5 justify-content-center">
-                    <div class="col-md-6 col-lg-3">
+                    <div class="col-6 col-md-4 col-lg-3">
                         <div class="h-s4-item">
                             <a class="text-decoration-none d-inline-grid h-pro-card-a" href="kolam">
-                                <img class="h-s4-product-img" src="assets/images/alfirdous.png" alt="">
+                                <img class="h-s4-product-img img-fluid" src="assets/images/alfirdous.png" alt="">
                                 <h5 class="body-p brown-bg py-2 d-inline-block text-white h-s4-item-p text-uppercase">Al Firdous</h5>
                             </a>
                         </div>
                     </div>
-                    <div class="col-md-6 col-lg-3">
+                    <div class="col-6 col-md-4 col-lg-3">
                         <div class="h-s4-item">
                             <a class="text-decoration-none d-inline-grid h-pro-card-a" href="kolam">
-                                <img class="h-s4-product-img" src="assets/images/abusalam.png" alt="">
+                                <img class="h-s4-product-img img-fluid" src="assets/images/abusalam.png" alt="">
                                 <h5 class="body-p brown-bg py-2 d-inline-block text-white h-s4-item-p text-uppercase">Abu salam</h5>
                             </a>
                         </div>
                     </div>
-                    <div class="col-md-6 col-lg-3">
+                    <div class="col-6 col-md-4 col-lg-3">
                         <div class="h-s4-item">
                             <a class="text-decoration-none d-inline-grid h-pro-card-a" href="kolam">
-                                <img class="h-s4-product-img" src="assets/images/alqilal-kolam.png" alt="">
+                                <img class="h-s4-product-img img-fluid" src="assets/images/alqilal-kolam.png" alt="">
                                 <h5 class="body-p brown-bg py-2 d-inline-block text-white h-s4-item-p text-uppercase">Al Qilal</h5>
                             </a>
                         </div>

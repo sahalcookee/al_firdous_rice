@@ -47,6 +47,7 @@
         z-index: 0;
         transform: rotate(-30deg);
     }
+}
 @media (max-width: 767.98px) {
     /* home  */
     .h-s1-h{
@@ -92,5 +93,16 @@
     }
     .h-s3-grain{
         width: 30%;
+    }
+    /* carousel  */
+    .h-s4-product-img{
+        object-fit: contain;
+        width: 130px;
+    }
+    .h-s4-item-p{
+        font-size: 12px;
+    }
+    .recipes-caro-img{
+        width: 130px;
     }
 }

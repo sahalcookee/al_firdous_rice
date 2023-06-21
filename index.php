@@ -270,31 +270,31 @@
                 <div class="recipes-slide row text-center py-4">
                     <div class="h-s4-item">
                         <a class="h-pro-card-a" href="#">
-                            <img class="py-4" src="assets/images/h-s5-prdt-1.jpg" alt="">
+                            <img class="py-4 recipes-caro-img" src="assets/images/h-s5-prdt-1.jpg" alt="">
                             <h5 class="body-p brown-bg px-5 py-2 d-inline-block text-white h-s4-item-p text-uppercase">Alif Laila</h5>
                         </a>
                     </div>
                     <div class="h-s4-item">
                         <a class="h-pro-card-a" href="#">
-                            <img class="py-4" src="assets/images/h-s5-prdt-2.jpg" alt="">
+                            <img class="py-4 recipes-caro-img" src="assets/images/h-s5-prdt-2.jpg" alt="">
                             <h5 class="body-p brown-bg px-5 py-2 d-inline-block text-white h-s4-item-p text-uppercase">Alif Laila</h5>
                         </a>
                     </div>
                     <div class="h-s4-item">
                         <a class="h-pro-card-a" href="#">
-                            <img class="py-4" src="assets/images/h-s5-prdt-3.jpg" alt="">
+                            <img class="py-4 recipes-caro-img" src="assets/images/h-s5-prdt-3.jpg" alt="">
                             <h5 class="body-p brown-bg px-5 py-2 d-inline-block text-white h-s4-item-p text-uppercase">Alif Laila</h5>
                         </a>
                     </div>
                     <div class="h-s4-item">
                         <a class="h-pro-card-a" href="#">
-                            <img class="py-4" src="assets/images/h-s5-prdt-4.jpg" alt="">
+                            <img class="py-4 recipes-caro-img" src="assets/images/h-s5-prdt-4.jpg" alt="">
                             <h5 class="body-p brown-bg px-5 py-2 d-inline-block text-white h-s4-item-p text-uppercase">Alif Laila</h5>
                         </a>
                     </div>
                     <div class="h-s4-item">
                         <a class="h-pro-card-a" href="#">
-                            <img class="py-4" src="assets/images/h-s5-prdt-3.jpg" alt="">
+                            <img class="py-4 recipes-caro-img" src="assets/images/h-s5-prdt-3.jpg" alt="">
                             <h5 class="body-p brown-bg px-5 py-2 d-inline-block text-white h-s4-item-p text-uppercase">Alif Laila</h5>
                         </a>
                     </div>
