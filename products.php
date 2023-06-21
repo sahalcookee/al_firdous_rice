@@ -36,7 +36,7 @@
                 <div class="row g-5 justify-content-center">
                     <div class="col-md-6 col-lg-3">
                         <div class="h-s4-item">
-                            <a class="text-decoration-none d-inline-grid h-pro-card-a" href="products_inner">
+                            <a class="text-decoration-none d-inline-grid h-pro-card-a" href="basmati">
                                 <img class="h-s4-product-img" src="assets/images/alhind.png" alt="">
                                 <h5 class="body-p brown-bg py-2 d-inline-block text-white h-s4-item-p text-uppercase">Al Hind</h5>
                             </a>
@@ -44,7 +44,7 @@
                     </div>
                     <div class="col-md-6 col-lg-3">
                         <div class="h-s4-item">
-                            <a class="text-decoration-none d-inline-grid h-pro-card-a" href="#">
+                            <a class="text-decoration-none d-inline-grid h-pro-card-a" href="basmati">
                                 <img class="h-s4-product-img" src="assets/images/alhind-super.png" alt="">
                                 <h5 class="body-p brown-bg py-2 d-inline-block text-white h-s4-item-p text-uppercase">Al Hind</h5>
                             </a>
@@ -52,7 +52,7 @@
                     </div>
                     <div class="col-md-6 col-lg-3">
                         <div class="h-s4-item">
-                            <a class="text-decoration-none d-inline-grid h-pro-card-a" href="#">
+                            <a class="text-decoration-none d-inline-grid h-pro-card-a" href="basmati">
                                 <img class="h-s4-product-img" src="assets/images/alhind-whitesella.png" alt="">
                                 <h5 class="body-p brown-bg py-2 d-inline-block text-white h-s4-item-p text-uppercase">Al Hind</h5>
                             </a>
@@ -60,7 +60,7 @@
                     </div>
                     <div class="col-md-6 col-lg-3">
                         <div class="h-s4-item">
-                            <a class="text-decoration-none d-inline-grid h-pro-card-a" href="#">
+                            <a class="text-decoration-none d-inline-grid h-pro-card-a" href="basmati">
                                 <img class="h-s4-product-img" src="assets/images/alhind-bukhari.png" alt="">
                                 <h5 class="body-p brown-bg py-2 d-inline-block text-white h-s4-item-p text-uppercase">Al Hind</h5>
                             </a>
@@ -68,7 +68,7 @@
                     </div>
                     <div class="col-md-6 col-lg-3">
                         <div class="h-s4-item">
-                            <a class="text-decoration-none d-inline-grid h-pro-card-a" href="#">
+                            <a class="text-decoration-none d-inline-grid h-pro-card-a" href="basmati">
                                 <img class="h-s4-product-img" src="assets/images/alhind-biriyani-blue.png" alt="">
                                 <h5 class="body-p brown-bg py-2 d-inline-block text-white h-s4-item-p text-uppercase">Al Hind</h5>
                             </a>
@@ -76,7 +76,7 @@
                     </div>
                     <div class="col-md-6 col-lg-3">
                         <div class="h-s4-item">
-                            <a class="text-decoration-none d-inline-grid h-pro-card-a" href="#">
+                            <a class="text-decoration-none d-inline-grid h-pro-card-a" href="basmati">
                                 <img class="h-s4-product-img" src="assets/images/akbarcity-rozana-green.png" alt="">
                                 <h5 class="body-p brown-bg py-2 d-inline-block text-white h-s4-item-p text-uppercase">Akbar City</h5>
                             </a>
@@ -84,7 +84,7 @@
                     </div>
                     <div class="col-md-6 col-lg-3">
                         <div class="h-s4-item">
-                            <a class="text-decoration-none d-inline-grid h-pro-card-a" href="#">
+                            <a class="text-decoration-none d-inline-grid h-pro-card-a" href="basmati">
                                 <img class="h-s4-product-img" src="assets/images/akbarcity-xxl-green.png" alt="">
                                 <h5 class="body-p brown-bg py-2 d-inline-block text-white h-s4-item-p text-uppercase">Akbar City</h5>
                             </a>
@@ -92,7 +92,7 @@
                     </div>
                     <div class="col-md-6 col-lg-3">
                         <div class="h-s4-item">
-                            <a class="text-decoration-none d-inline-grid h-pro-card-a" href="#">
+                            <a class="text-decoration-none d-inline-grid h-pro-card-a" href="basmati">
                                 <img class="h-s4-product-img" src="assets/images/akbarcityxxl.png" alt="">
                                 <h5 class="body-p brown-bg py-2 d-inline-block text-white h-s4-item-p text-uppercase">Akbar City</h5>
                             </a>
@@ -100,7 +100,7 @@
                     </div>
                     <div class="col-md-6 col-lg-3">
                         <div class="h-s4-item">
-                            <a class="text-decoration-none d-inline-grid h-pro-card-a" href="#">
+                            <a class="text-decoration-none d-inline-grid h-pro-card-a" href="basmati">
                                 <img class="h-s4-product-img" src="assets/images/akbarcity-rozana.png" alt="">
                                 <h5 class="body-p brown-bg py-2 d-inline-block text-white h-s4-item-p text-uppercase">Akbar City</h5>
                             </a>
@@ -108,7 +108,7 @@
                     </div>
                     <div class="col-md-6 col-lg-3">
                         <div class="h-s4-item">
-                            <a class="text-decoration-none d-inline-grid h-pro-card-a" href="#">
+                            <a class="text-decoration-none d-inline-grid h-pro-card-a" href="basmati">
                                 <img class="h-s4-product-img" src="assets/images/alqilal-green.png" alt="">
                                 <h5 class="body-p brown-bg py-2 d-inline-block text-white h-s4-item-p text-uppercase">Al Qilal</h5>
                             </a>
@@ -116,7 +116,7 @@
                     </div>
                     <div class="col-md-6 col-lg-3">
                         <div class="h-s4-item">
-                            <a class="text-decoration-none d-inline-grid h-pro-card-a" href="#">
+                            <a class="text-decoration-none d-inline-grid h-pro-card-a" href="basmati">
                                 <img class="h-s4-product-img" src="assets/images/alkilal-orange.png" alt="">
                                 <h5 class="body-p brown-bg py-2 d-inline-block text-white h-s4-item-p text-uppercase">Al Qilal</h5>
                             </a>
@@ -124,7 +124,7 @@
                     </div>
                     <div class="col-md-6 col-lg-3">
                         <div class="h-s4-item">
-                            <a class="text-decoration-none d-inline-grid h-pro-card-a" href="#">
+                            <a class="text-decoration-none d-inline-grid h-pro-card-a" href="basmati">
                                 <img class="h-s4-product-img" src="assets/images/alqilal-basmathi.png" alt="">
                                 <h5 class="body-p brown-bg py-2 d-inline-block text-white h-s4-item-p text-uppercase">Al Qilal</h5>
                             </a>
@@ -132,7 +132,7 @@
                     </div>
                     <div class="col-md-6 col-lg-3">
                         <div class="h-s4-item">
-                            <a class="text-decoration-none d-inline-grid h-pro-card-a" href="#">
+                            <a class="text-decoration-none d-inline-grid h-pro-card-a" href="basmati">
                                 <img class="h-s4-product-img" src="assets/images/alqilal-blck.png" alt="">
                                 <h5 class="body-p brown-bg py-2 d-inline-block text-white h-s4-item-p text-uppercase">Al Qilal</h5>
                             </a>
@@ -151,7 +151,7 @@
                 <div class="row g-5 justify-content-center">
                     <div class="col-md-6 col-lg-3">
                         <div class="h-s4-item">
-                            <a class="text-decoration-none d-inline-grid h-pro-card-a" href="#">
+                            <a class="text-decoration-none d-inline-grid h-pro-card-a" href="kaima">
                                 <img class="h-s4-product-img" src="assets/images/aliflaila.png" alt="">
                                 <h5 class="body-p brown-bg py-2 d-inline-block text-white h-s4-item-p text-uppercase">Alif Laila</h5>
                             </a>
@@ -159,7 +159,7 @@
                     </div>
                     <div class="col-md-6 col-lg-3">
                         <div class="h-s4-item">
-                            <a class="text-decoration-none d-inline-grid h-pro-card-a" href="#">
+                            <a class="text-decoration-none d-inline-grid h-pro-card-a" href="kaima">
                                 <img class="h-s4-product-img" src="assets/images/qilaf-jeerakam-brown.png" alt="">
                                 <h5 class="body-p brown-bg py-2 d-inline-block text-white h-s4-item-p text-uppercase">Qilaf</h5>
                             </a>
@@ -167,7 +167,7 @@
                     </div>
                     <div class="col-md-6 col-lg-3">
                         <div class="h-s4-item">
-                            <a class="text-decoration-none d-inline-grid h-pro-card-a" href="#">
+                            <a class="text-decoration-none d-inline-grid h-pro-card-a" href="kaima">
                                 <img class="h-s4-product-img" src="assets/images/akbarcity-jeera.png" alt="">
                                 <h5 class="body-p brown-bg py-2 d-inline-block text-white h-s4-item-p text-uppercase">Akbar City</h5>
                             </a>
@@ -175,7 +175,7 @@
                     </div>
                     <div class="col-md-6 col-lg-3">
                         <div class="h-s4-item">
-                            <a class="text-decoration-none d-inline-grid h-pro-card-a" href="#">
+                            <a class="text-decoration-none d-inline-grid h-pro-card-a" href="kaima">
                                 <img class="h-s4-product-img" src="assets/images/alqilal-jeerakam.png" alt="">
                                 <h5 class="body-p brown-bg py-2 d-inline-block text-white h-s4-item-p text-uppercase">Al qilal</h5>
                             </a>
@@ -194,7 +194,7 @@
                 <div class="row g-5 justify-content-center">
                     <div class="col-md-6 col-lg-3">
                         <div class="h-s4-item">
-                            <a class="text-decoration-none d-inline-grid h-pro-card-a" href="#">
+                            <a class="text-decoration-none d-inline-grid h-pro-card-a" href="kolam">
                                 <img class="h-s4-product-img" src="assets/images/alfirdous.png" alt="">
                                 <h5 class="body-p brown-bg py-2 d-inline-block text-white h-s4-item-p text-uppercase">Al Firdous</h5>
                             </a>
@@ -202,7 +202,7 @@
                     </div>
                     <div class="col-md-6 col-lg-3">
                         <div class="h-s4-item">
-                            <a class="text-decoration-none d-inline-grid h-pro-card-a" href="#">
+                            <a class="text-decoration-none d-inline-grid h-pro-card-a" href="kolam">
                                 <img class="h-s4-product-img" src="assets/images/abusalam.png" alt="">
                                 <h5 class="body-p brown-bg py-2 d-inline-block text-white h-s4-item-p text-uppercase">Abu salam</h5>
                             </a>
@@ -210,7 +210,7 @@
                     </div>
                     <div class="col-md-6 col-lg-3">
                         <div class="h-s4-item">
-                            <a class="text-decoration-none d-inline-grid h-pro-card-a" href="#">
+                            <a class="text-decoration-none d-inline-grid h-pro-card-a" href="kolam">
                                 <img class="h-s4-product-img" src="assets/images/alqilal-kolam.png" alt="">
                                 <h5 class="body-p brown-bg py-2 d-inline-block text-white h-s4-item-p text-uppercase">Al Qilal</h5>
                             </a>

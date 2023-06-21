@@ -31,10 +31,13 @@
                     <div id="carouselExampleAutoplaying" class="carousel slide" data-bs-touch="true" data-bs-ride="carousel">
                         <div class="carousel-inner rounded-5">
                             <div class="carousel-item active">
-                                <img src="assets/images/product-inner-alhind-1.jpg" class="d-block w-100" alt="...">
+                                <img src="assets/images/product-inner-alfirdous-1.jpg" class="d-block w-100" alt="...">
                             </div>
                             <div class="carousel-item">
-                                <img src="assets/images/product-inner-alhind-2.jpg" class="d-block w-100" alt="...">
+                                <img src="assets/images/product-inner-abusalam-1.jpg" class="d-block w-100" alt="...">
+                            </div>
+                            <div class="carousel-item">
+                                <img src="assets/images/product-inner-alqilal-kolam-1.jpg" class="d-block w-100" alt="...">
                             </div>
                         </div>
                         <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleAutoplaying" data-bs-slide="prev">
@@ -54,24 +57,25 @@
                 <div class="col-lg-5">
                     <div class="pb-3">
                         <div class="text-start text-md-end prod-inner-s2-col2-h-div pb-4 pt-5 pt-lg-0">
-                            <h2 class="main-h2 fw-bold h-s1-h text-uppercase">Al hind</h2>
-                            <p class="main-h2 fw-normal fs-3 text-uppercase">Golden Sella</p>
+                            <h2 class="main-h2 fw-bold h-s1-h text-uppercase">kolam</h2>
+                            <!-- <p class="main-h2 fw-normal fs-3 text-uppercase">Golden Sella</p> -->
                         </div>
                         <p class="text-start text-md-end body-p fw-medium">is a variety of long, slender-grained aromatic rice which is traditionally grown in India.Basmati rice is believed to have been cultivated in the Indian subcontinent for centuries. Earliest mention of Basmati rice has been made in the epic Heer Ranjha composed by the Punjabi poet Varis Shah in 1766.India accounts for over 70% of the world's basmati rice production</p>
                         <img class="img-fluid" src="assets/images/prod-inner-border.png" alt="">
                     </div>
-                    <div>
+                    <!-- <div>
                         <p class="text-start main-h2 fw-normal fs-3 text-uppercase">AVAILABLE PACK</p>
                         <div class="position-relative">
                             <img src="assets/images/prod-inner-pack-no.png" alt="">
                             <h2 class="main-h2 fw-bold position-absolute translate-middle top-50 prod-inner-s2-col2-packno">30</h2>
                         </div>
-                    </div>
+                    </div> -->
                 </div>
                 <img class="img-fluid mt-5" src="assets/images/prod-inner-border.png" alt="">
             </div>
         </div>
     </section>
+
 
     <!-- section-3  -->
     <section class="py-5 mb-0 mb-lg-5">
@@ -97,126 +101,132 @@
     <section class="py-5 mb-0 mb-lg-5">
         <div class="container">
             <div class="product-slide row text-center py-4">
-                <div class="h-s4-item">
-                    <a class="h-pro-card-a" href="#">
+                <!-- <div class="h-s4-item">
+                    <a class="h-pro-card-a" href="kaima">
                         <img class="h-s4-product-img" src="assets/images/aliflaila.png" alt="">
                         <h5 class="body-p brown-bg px-5 py-2 d-inline-block text-white h-s4-item-p text-uppercase">Alif Laila</h5>
                     </a>
-                </div>
-                <div class="h-s4-item">
-                    <a class="h-pro-card-a" href="#">
+                </div> -->
+                <!-- <div class="h-s4-item">
+                    <a class="h-pro-card-a" href="basmati">
                         <img class="h-s4-product-img" src="assets/images/alhind.png" alt="">
                         <h5 class="body-p brown-bg px-5 py-2 d-inline-block text-white h-s4-item-p text-uppercase">Al Hind</h5>
                     </a>
-                </div>
+                </div> -->
                 <div class="h-s4-item">
-                    <a class="h-pro-card-a" href="#">
+                    <a class="h-pro-card-a" href="kolam">
                         <img class="h-s4-product-img" src="assets/images/abusalam.png" alt="">
                         <h5 class="body-p brown-bg px-5 py-2 d-inline-block text-white h-s4-item-p text-uppercase">Abu Salam</h5>
                     </a>
                 </div>
-                <div class="h-s4-item">
-                    <a class="h-pro-card-a" href="#">
+                <!-- <div class="h-s4-item">
+                    <a class="h-pro-card-a" href="kaima">
                         <img class="h-s4-product-img" src="assets/images/akbarcity-jeera.png" alt="">
                         <h5 class="body-p brown-bg px-5 py-2 d-inline-block text-white h-s4-item-p text-uppercase">Akbar city</h5>
                     </a>
-                </div>
-                <div class="h-s4-item">
-                    <a class="h-pro-card-a" href="#">
+                </div> -->
+                <!-- <div class="h-s4-item">
+                    <a class="h-pro-card-a" href="basmati">
                         <img class="h-s4-product-img" src="assets/images/akbarcity-rozana.png" alt="">
                         <h5 class="body-p brown-bg px-5 py-2 d-inline-block text-white h-s4-item-p text-uppercase">Akbar city</h5>
                     </a>
-                </div>
-                <div class="h-s4-item">
-                    <a class="h-pro-card-a" href="#">
+                </div> -->
+                <!-- <div class="h-s4-item">
+                    <a class="h-pro-card-a" href="basmati">
                         <img class="h-s4-product-img" src="assets/images/akbarcity-rozana-green.png" alt="">
                         <h5 class="body-p brown-bg px-5 py-2 d-inline-block text-white h-s4-item-p text-uppercase">Akbar city</h5>
                     </a>
-                </div>
-                <div class="h-s4-item">
-                    <a class="h-pro-card-a" href="#">
+                </div> -->
+                <!-- <div class="h-s4-item">
+                    <a class="h-pro-card-a" href="basmati">
                         <img class="h-s4-product-img" src="assets/images/akbarcityxxl.png" alt="">
                         <h5 class="body-p brown-bg px-5 py-2 d-inline-block text-white h-s4-item-p text-uppercase">Akbar city</h5>
                     </a>
-                </div>
-                <div class="h-s4-item">
-                    <a class="h-pro-card-a" href="#">
+                </div> -->
+                <!-- <div class="h-s4-item">
+                    <a class="h-pro-card-a" href="basmati">
                         <img class="h-s4-product-img" src="assets/images/akbarcity-xxl-green.png" alt="">
                         <h5 class="body-p brown-bg px-5 py-2 d-inline-block text-white h-s4-item-p text-uppercase">Akbar city</h5>
                     </a>
-                </div>
-                <div class="h-s4-item">
-                    <a class="h-pro-card-a" href="#">
+                </div> -->
+                <!-- <div class="h-s4-item">
+                    <a class="h-pro-card-a" href="basmati">
                         <img class="h-s4-product-img" src="assets/images/alhind-biriyani-blue.png" alt="">
                         <h5 class="body-p brown-bg px-5 py-2 d-inline-block text-white h-s4-item-p text-uppercase">Al hind</h5>
                     </a>
-                </div>
-                <div class="h-s4-item">
-                    <a class="h-pro-card-a" href="#">
+                </div> -->
+                <!-- <div class="h-s4-item">
+                    <a class="h-pro-card-a" href="basmati">
                         <img class="h-s4-product-img" src="assets/images/alhind-bukhari.png" alt="">
                         <h5 class="body-p brown-bg px-5 py-2 d-inline-block text-white h-s4-item-p text-uppercase">Al hind</h5>
                     </a>
-                </div>
-                <div class="h-s4-item">
-                    <a class="h-pro-card-a" href="#">
+                </div> -->
+                <!-- <div class="h-s4-item">
+                    <a class="h-pro-card-a" href="basmati">
                         <img class="h-s4-product-img" src="assets/images/alhind-super.png" alt="">
                         <h5 class="body-p brown-bg px-5 py-2 d-inline-block text-white h-s4-item-p text-uppercase">Al hind</h5>
                     </a>
-                </div>
-                <div class="h-s4-item">
-                    <a class="h-pro-card-a" href="#">
+                </div> -->
+                <!-- <div class="h-s4-item">
+                    <a class="h-pro-card-a" href="basmati">
                         <img class="h-s4-product-img" src="assets/images/alhind-whitesella.png" alt="">
                         <h5 class="body-p brown-bg px-5 py-2 d-inline-block text-white h-s4-item-p text-uppercase">Al hind</h5>
                     </a>
-                </div>
-                <div class="h-s4-item">
-                    <a class="h-pro-card-a" href="#">
+                </div> -->
+                <!-- <div class="h-s4-item">
+                    <a class="h-pro-card-a" href="basmati">
                         <img class="h-s4-product-img" src="assets/images/alkilal-orange.png" alt="">
                         <h5 class="body-p brown-bg px-5 py-2 d-inline-block text-white h-s4-item-p text-uppercase">Al qilal</h5>
                     </a>
-                </div>
-                <div class="h-s4-item">
-                    <a class="h-pro-card-a" href="#">
+                </div> -->
+                <!-- <div class="h-s4-item">
+                    <a class="h-pro-card-a" href="basmati">
                         <img class="h-s4-product-img" src="assets/images/alqilal-basmathi.png" alt="">
                         <h5 class="body-p brown-bg px-5 py-2 d-inline-block text-white h-s4-item-p text-uppercase">Al qilal</h5>
                     </a>
-                </div>
-                <div class="h-s4-item">
-                    <a class="h-pro-card-a" href="#">
+                </div> -->
+                <!-- <div class="h-s4-item">
+                    <a class="h-pro-card-a" href="basmati">
                         <img class="h-s4-product-img" src="assets/images/alqilal-blck.png" alt="">
                         <h5 class="body-p brown-bg px-5 py-2 d-inline-block text-white h-s4-item-p text-uppercase">Al qilal</h5>
                     </a>
-                </div>
-                <div class="h-s4-item">
-                    <a class="h-pro-card-a" href="#">
+                </div> -->
+                <!-- <div class="h-s4-item">
+                    <a class="h-pro-card-a" href="basmati">
                         <img class="h-s4-product-img" src="assets/images/alqilal-green.png" alt="">
                         <h5 class="body-p brown-bg px-5 py-2 d-inline-block text-white h-s4-item-p text-uppercase">Al qilal</h5>
                     </a>
-                </div>
-                <div class="h-s4-item">
-                    <a class="h-pro-card-a" href="#">
+                </div> -->
+                <!-- <div class="h-s4-item">
+                    <a class="h-pro-card-a" href="kaima">
                         <img class="h-s4-product-img" src="assets/images/alqilal-jeerakam.png" alt="">
                         <h5 class="body-p brown-bg px-5 py-2 d-inline-block text-white h-s4-item-p text-uppercase">Al qilal</h5>
                     </a>
-                </div>
+                </div> -->
                 <div class="h-s4-item">
-                    <a class="h-pro-card-a" href="#">
+                    <a class="h-pro-card-a" href="kolam">
                         <img class="h-s4-product-img" src="assets/images/alqilal-kolam.png" alt="">
                         <h5 class="body-p brown-bg px-5 py-2 d-inline-block text-white h-s4-item-p text-uppercase">Al qilal</h5>
                     </a>
                 </div>
                 <div class="h-s4-item">
-                    <a class="h-pro-card-a" href="#">
+                    <a class="h-pro-card-a" href="kolam">
+                        <img class="h-s4-product-img" src="assets/images/alfirdous.png" alt="">
+                        <h5 class="body-p brown-bg px-5 py-2 d-inline-block text-white h-s4-item-p text-uppercase">Al firdous</h5>
+                    </a>
+                </div>
+                <!-- <div class="h-s4-item">
+                    <a class="h-pro-card-a" href="basmati">
                         <img class="h-s4-product-img" src="assets/images/akbarcity-xxl-green.png" alt="">
                         <h5 class="body-p brown-bg px-5 py-2 d-inline-block text-white h-s4-item-p text-uppercase">Akbar city</h5>
                     </a>
-                </div>
-                <div class="h-s4-item">
-                    <a class="h-pro-card-a" href="#">
+                </div> -->
+                <!-- <div class="h-s4-item">
+                    <a class="h-pro-card-a" href="kaima">
                         <img class="h-s4-product-img" src="assets/images/qilaf-jeerakam-brown.png" alt="">
                         <h5 class="body-p brown-bg px-5 py-2 d-inline-block text-white h-s4-item-p text-uppercase">Qilaf</h5>
                     </a>
-                </div>
+                </div> -->
             </div>
             <div class="text-center d-block d-lg-none mb-4">
                 <img class="img-fluid" src="assets/images/carousel-line.svg" alt="">
