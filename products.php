@@ -15,7 +15,7 @@
     ?>
 
     <!-- section -1  -->
-    <section class="mt-lg-4 mt-5 pt-5 pt-lg-0 pb-0 pb-lg-5">
+    <section class="mt-lg-4 mt-5 pb-0 pb-lg-5">
         <div class="yellow-bg d-flex justify-content-between">
             <span class="brown-bg d-inline-block prod-s1-span prod-s1-span-1"></span>
             <div class="text-center py-5 align-self-center">
@@ -31,9 +31,9 @@
         <img class="position-absolute h-s1-decor-1 top-50" src="assets/images/h-s1-rice-1.png" alt="">
         <img class="position-absolute h-s1-decor-2 end-0 bottom-0" src="assets/images/h-s1-rice-2.png" alt="">
         <div class="container">
-            <div class="prod-s2-div p-5 position-relative">
+            <div class="prod-s2-div p-3 p-md-5 position-relative">
                 <h2 class="text-center main-h2 fw-bold fs-1 text-uppercase position-absolute translate-middle top-0 start-50 px-5 prod-s2-head">BASMATI</h2>
-                <div class="row g-5 justify-content-center">
+                <div class="row g-md-5 g-3 justify-content-center">
                     <div class="col-6 col-md-4 col-lg-3">
                         <div class="h-s4-item">
                             <a class="text-decoration-none d-inline-grid h-pro-card-a" href="basmati">
@@ -144,11 +144,11 @@
     </section>
 
     <!-- section-3  -->
-    <section class="py-5 mb-0 mb-lg-5">
+    <section class="py-5 mb-0 mb-lg-5 pt-0 pt-md-5">
         <div class="container">
-            <div class="prod-s2-div p-5 position-relative">
+            <div class="prod-s2-div p-3 p-md-5 position-relative">
                 <h2 class="text-center main-h2 fw-bold fs-1 text-uppercase position-absolute translate-middle top-0 start-50 px-5 prod-s2-head">Kaima</h2>
-                <div class="row g-5 justify-content-center">
+                <div class="row g-md-5 g-3 justify-content-center">
                     <div class="col-6 col-md-4 col-lg-3">
                         <div class="h-s4-item">
                             <a class="text-decoration-none d-inline-grid h-pro-card-a" href="kaima">
@@ -187,11 +187,11 @@
     </section>
 
     <!-- section-4  -->
-    <section class="py-5 mb-0 mb-lg-5">
+    <section class="py-5 mb-0 mb-lg-5 pt-0 pt-md-5">
         <div class="container">
-            <div class="prod-s2-div p-5 position-relative">
+            <div class="prod-s2-div p-3 p-md-5 position-relative">
                 <h2 class="text-center main-h2 fw-bold fs-1 text-uppercase position-absolute translate-middle top-0 start-50 px-5 prod-s2-head">Kolam</h2>
-                <div class="row g-5 justify-content-center">
+                <div class="row g-md-5 g-3 justify-content-center">
                     <div class="col-6 col-md-4 col-lg-3">
                         <div class="h-s4-item">
                             <a class="text-decoration-none d-inline-grid h-pro-card-a" href="kolam">

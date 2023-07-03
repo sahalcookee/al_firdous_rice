@@ -154,6 +154,7 @@ body{
 .h-s4-item{
     text-align: center;
     text-align: -webkit-center;
+    text-align: -moz-center;
 }
 .h-s4-item-p{
     border-radius: 0px 50px 0px 50px;
@@ -254,6 +255,9 @@ body{
     z-index: 0;
     transform: rotate(-30deg);
 }
+.h-s9-decor-img{
+    width: 105px;
+}
 .h-s10-ban-img{
     background-image: url(../images/h-s10-ban-img.jpg);
     background-position: center;
@@ -323,7 +327,7 @@ body{
 }
 .prod-inner-s3-grain{
     left: -52px;
-    top: -105px;
+    top: -190px;
 }
 
 /* recipes  */

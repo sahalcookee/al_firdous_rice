@@ -14,7 +14,7 @@
     }
     ?>
      
-    <section class="mt-lg-4 mt-5 pt-5 pt-lg-0 pb-0 pb-lg-5">
+    <section class="mt-lg-4 mt-5 pb-0 pb-lg-5">
         <div class="yellow-bg text-center">
             <div class="text-center py-5">
                 <h2 class="main-h2 fw-bold h-s1-h m-0 text-uppercase">Recipes</h2>
@@ -70,7 +70,7 @@
     </section>
 
     <!-- section-3  -->
-    <section class="py-5 mb-0 mb-lg-5">
+    <section class="py-5 mb-0 mb-lg-5 pt-0 pt-md-5">
         <div class="container">
             <div class="text-start">
                 <h2 class="main-h2 fw-bold fs-1 m-0 reci-s2-h">Pulavu</h2>
@@ -116,7 +116,7 @@
     </section>
 
     <!-- section-4  -->
-    <section class="py-5 mb-0 mb-lg-5">
+    <section class="py-5 mb-0 mb-lg-5 pt-0 pt-md-5">
         <div class="container-fluid p-0 brown-bg position-relative overflow-hidden">
             <img class="position-absolute recipes-s4-grain h-s1-grain-1" src="assets/images/h-s1-grain-img.png" alt="">
             <img class="position-absolute recipes-s4-grain-2 h-s1-grain-1" src="assets/images/h-s1-grain-img.png" alt="">

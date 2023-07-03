@@ -14,7 +14,7 @@
     }
     ?>
 
-    <section class="mt-lg-4 mt-5 pt-5 pt-lg-0 pb-0 pb-lg-5">
+    <section class="mt-lg-4 mt-5 pb-0 pb-lg-5">
         <div class="yellow-bg text-center">
             <div class="text-center py-5">
                 <h2 class="main-h2 fw-bold h-s1-h m-0 text-uppercase">Our Products</h2>
@@ -86,7 +86,7 @@
                 </div>
                 <div class="col-lg-5">
                     <div class="pb-3">
-                        <div class="text-start text-md-end prod-inner-s2-col2-h-div pb-4 pt-5 pt-lg-0">
+                        <div class="text-start text-md-end prod-inner-s2-col2-h-div pb-0 pb-md-4 pt-5 pt-lg-0">
                             <h2 class="main-h2 fw-bold h-s1-h text-uppercase">basmati</h2>
                             <!-- <p class="main-h2 fw-normal fs-3 text-uppercase">Golden Sella</p> -->
                         </div>
@@ -101,19 +101,19 @@
                         </div>
                     </div> -->
                 </div>
-                <img class="img-fluid mt-5" src="assets/images/prod-inner-border.png" alt="">
+                <img class="img-fluid mt-5 d-none d-lg-block" src="assets/images/prod-inner-border.png" alt="">
             </div>
         </div>
     </section>
 
 
     <!-- section-3  -->
-    <section class="py-5 mb-0 mb-lg-5">
+    <section class="py-5 mb-0 mb-lg-5 pt-0 pt-lg-5">
         <div class="container-fluid p-0 position-relative">
-            <img class="position-absolute h-s3-grain prod-inner-s3-grain" src="assets/images/h-s1-grain-img.png" alt="">
+            <img class="position-absolute h-s3-grain prod-inner-s3-grain d-none d-lg-block" src="assets/images/h-s1-grain-img.png" alt="">
         </div>
         <div class="container">
-            <div class="text-center mb-5 pb-3 mt-5">
+            <div class="text-center mb-2 mb-md-5 pb-3">
                 <p class="body-p fw-normal fs-4">We are a company that specializes in bringing you the finest products under five distinct brands - Akbar, Alhind, Alif Laila, Firdous, and Abusalam. Each brand has its unique focus, but all are united by a passion for quality and excellence.</p>
             </div>
         </div>
@@ -128,7 +128,7 @@
         </div>
     </section>
 
-    <section class="py-5 mb-0 mb-lg-5">
+    <section class="py-5 mb-0 mb-lg-5 pt-0 pt-md-5">
         <div class="container">
             <div class="product-slide row text-center py-4">
                 <!-- <div class="h-s4-item">
