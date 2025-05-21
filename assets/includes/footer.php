@@ -15,6 +15,11 @@
     </div>
     <div class="fotr-div-2 text-center py-5 pt-4">
         <p class="text-uppercase body-p fs-4 my-5">#667, GROUNDFLOOR, SECTOR4, KARNAL, HARIYANA, PIN 132001</p>
+        <div class="d-flex flex-column gap-1 mb-3">
+            <p class="text-uppercase body-p fs-5 m-0">All India Distributor</p>
+            <p class="text-uppercase body-p fs-6 m-0">BHARATH MARKETING</p>
+            <p class="text-uppercase body-p fs-6 m-0">PM VII/47[6], THANNEERPANTHAL, PATHAKKARA, PERINTALMANNA, PIN CODE : 679322</p>
+        </div>
         <div class="d-flex justify-content-center pb-0 pb-lg-4">
             <a class="fotr-social" href="https://www.facebook.com/alfirdousrice" target="_blank"><img class="px-3 ftr-social-img" src="assets/images/footer-facebook.png" alt=""></a>
             <a class="fotr-social" href="https://www.instagram.com/alfirdous_foods/" target="_blank"><img class="px-3 ftr-social-img" src="assets/images/footer-insta.png" alt=""></a>
