@@ -14,8 +14,8 @@
                         href="products">Products</a>
                     <a class="blk-prime text-decoration-none px-4 py-2 rounded-pill bg-white border border-2 fs-5 nav-a <?php active('recipes'); ?>"
                         href="recipes">Recipes</a>
-                    <a class="blk-prime text-decoration-none px-4 py-2 rounded-pill bg-white border border-2 fs-5 nav-a <?php active('contact'); ?>"
-                        href="#">Contact</a>
+                    <!-- <a class="blk-prime text-decoration-none px-4 py-2 rounded-pill bg-white border border-2 fs-5 nav-a <?php active('contact'); ?>"
+                        href="#">Contact</a> -->
                 </div>
             </div>
         </div>
