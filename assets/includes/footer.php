@@ -5,7 +5,7 @@
         <div class="position-absolute top-0 start-50 translate-middle">
             <a href="index"><img src="assets/images/logo.svg" alt=""></a>
         </div>
-        <div class="d-flex body-p mt-4 justify-content-evenly align-items-center align-items-md-start flex-column flex-md-row">
+        <div class="d-flex body-p mt-4 justify-content-center gap-md-4 align-items-center align-items-md-start flex-column flex-md-row">
             <a class="order-1 mb-3 text-decoration-none main-h fw-bold text-black px-4 py-2 rounded-pill fs-3 text-uppercase fotr-link-a" href="index">Home</a>
             <!-- <a class="order-1 mb-3 text-decoration-none main-h fw-bold text-black px-4 py-2 rounded-pill fs-3 text-uppercase fotr-link-a" href="#">About</a> -->
             <a class="order-1 mb-3 text-decoration-none main-h fw-bold text-black px-4 py-2 rounded-pill fs-3 text-uppercase fotr-link-a" href="products">Products</a>
