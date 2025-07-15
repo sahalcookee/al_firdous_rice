@@ -6,7 +6,7 @@
                 <div class="position-absolute top-0 start-50 translate-middle">
                     <a href="index"><img src="assets/images/logo.svg" alt=""></a>
                 </div>
-                <div class="d-flex body-p mt-4 justify-content-evenly">
+                <div class="d-flex body-p mt-4 justify-content-center gap-4">
                     <a class="blk-prime text-decoration-none px-4 py-2 rounded-pill bg-white border border-2 fs-5 nav-a <?php active('index'); ?>"
                         href="index">Home</a>
                     <!-- <a class="blk-prime text-decoration-none px-4 py-2 rounded-pill bg-white border border-2 fs-5 nav-a <?php active('about'); ?>" href="#">About</a> -->
